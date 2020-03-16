@@ -10,6 +10,7 @@ Create a POC tool with possible social impact and industrialize perspective.
 
 
 ## Possible extensions
+- frequency of communication
 - different means of transport
 - time-of-the-day-dependent map
 - ...
