@@ -1,0 +1,1177 @@
+,stopName,stopDesc,zoneId,zoneName,stopLat,stopLon
+0,Dąbrowa Centrum,Gdynia Dąbrowa Centrum,5.0,Gdynia,54.47317,18.46509
+1,Kameliowa,Gdynia Kameliowa,5.0,Gdynia,54.47018,18.4682
+2,Paprykowa,Gdynia Paprykowa,5.0,Gdynia,54.46784,18.46546
+3,Szafranowa,Gdynia Szafranowa,5.0,Gdynia,54.46536,18.4602
+4,Giełda Towarowa,Gdynia Giełda Towarowa,5.0,Gdynia,54.46224,18.45337
+5,Rdestowa - Chwaszczyńska,Gdynia Rdestowa - Chwaszczyńska (N/Ż),5.0,Gdynia,54.45874,18.4528
+6,Starochwaszczyńska,Gdynia Starochwaszczyńska (N/Ż),5.0,Gdynia,54.45696,18.4495
+10,Anyżowa,Gdynia Anyżowa,5.0,Gdynia,54.47483,18.46977
+12,Rdestowa - Leśny Zakątek,Gdynia Rdestowa - Leśny Zakątek (N/Ż),5.0,Gdynia,54.46412,18.45762
+13,Targ Rybny,Targ Rybny,1.0,Gdańsk,54.35332,18.65781
+14,Port Lotniczy,Port Lotniczy,1.0,Gdańsk,54.38267,18.46753
+15,Muzeum II Wojny Światowej,Muzeum II Wojny Światowej,1.0,Gdańsk,54.35764,18.65872
+16,Wrzeszcz PKP,Wrzeszcz PKP,1.0,Gdańsk,54.3813,18.60447
+17,Oliwa PKP,Oliwa PKP,1.0,Gdańsk,54.41123,18.57213
+18,Oliwa Pętla Tramwajowa,Oliwa Pętla Tramwajowa,1.0,Gdańsk,54.40926,18.56708
+19,Żabianka SKM,Żabianka SKM,1.0,Gdańsk,54.42112,18.57006
+20,Jelitkowo Kapliczna,Jelitkowo Kapliczna,1.0,Gdańsk,54.42158,18.60209
+21,Zaspa SKM,Zaspa SKM,1.0,Gdańsk,54.3893,18.59444
+22,Nowy Port Szaniec Zachodni,Nowy Port Szaniec Zachodni,1.0,Gdańsk,54.39618,18.67291
+23,Migowo,Migowo,1.0,Gdańsk,54.35264,18.57626
+24,Chełm Witosa,Chełm Witosa,1.0,Gdańsk,54.33741,18.61631
+25,Chełm Cienista,Chełm Cienista,1.0,Gdańsk,54.33831,18.627
+26,Orunia Górna,Orunia Górna,1.0,Gdańsk,54.3252,18.61839
+27,Maćkowy,Maćkowy,1.0,Gdańsk,54.30689,18.61525
+28,Równa,Orunia Równa,1.0,Gdańsk,54.32419,18.64089
+29,Olszynka - Szkoła,Olszynka Szkoła,1.0,Gdańsk,54.34184,18.66894
+30,Górki Zachodnie,Górki Zachodnie,1.0,Gdańsk,54.3548,18.7821
+31,,Nabrzeże Przemysłowe,,,54.37428,18.66562
+32,Westerplatte,Westerplatte,1.0,Gdańsk,54.40606,18.67702
+33,Górki Wschodnie,Górki Wschodnie,1.0,Gdańsk,54.35038,18.79305
+34,Przegalina,Przegalina,1.0,Gdańsk,54.31122,18.91707
+35,Lipuska,Lipuska,1.0,Gdańsk,54.33863,18.51084
+36,,Witomińska,,,54.51253,18.53218
+37,Bysewo,Bysewo,1.0,Gdańsk,54.37497,18.46361
+38,Matemblewo,Matemblewo,1.0,Gdańsk,54.36664,18.54891
+39,Suchanino,Suchanino,1.0,Gdańsk,54.35411,18.60737
+40,Osowa Przesypownia,Osowa Przesypownia,1.0,Gdańsk,54.41501,18.4585
+41,Niedźwiednik,Niedźwiednik,1.0,Gdańsk,54.38,18.55937
+42,Oliwa ZOO,Oliwa ZOO,1.0,Gdańsk,54.41353,18.53517
+43,,Warszawska,,,54.51691,18.53049
+44,Sztutowska,Sztutowska,1.0,Gdańsk,54.35395,18.71869
+45,Jelitkowo,Jelitkowo,1.0,Gdańsk,54.42346,18.59376
+46,Galaktyczna,Galaktyczna,1.0,Gdańsk,54.42812,18.48622
+47,Osowa PKP,Osowa PKP,1.0,Gdańsk,54.42082,18.45204
+48,,Gdynia Dworzec Gł. PKP - Wolności,,,54.51982,18.52781
+49,Chełm - Więckowskiego,Chełm Więckowskiego,1.0,Gdańsk,54.33398,18.6158
+50,Ujeścisko,Ujeścisko,1.0,Gdańsk,54.33127,18.58534
+52,Smęgorzyno,Smęgorzyno,1.0,Gdańsk,54.34205,18.4732
+53,Stogi Plaża,Stogi Plaża,1.0,Gdańsk,54.37243,18.7286
+54,Św. Wojciech,Święty Wojciech,1.0,Gdańsk,54.28478,18.63808
+55,Kukawka,Kukawka,1.0,Gdańsk,54.44403,18.45759
+56,,Bpa Okoniewskiego,,,54.52322,18.52173
+57,Kiełpino Górne,Kiełpino Górne,1.0,Gdańsk,54.34195,18.49882
+58,Kampinoska,Kampinoska,1.0,Gdańsk,54.31611,18.60301
+59,Olimpijska,Olimpijska,1.0,Gdańsk,54.30558,18.58112
+60,,Stocznia SKM - Morska,,,54.52479,18.5174
+61,Politechnika SKM,Politechnika SKM,1.0,Gdańsk,54.37393,18.62627
+62,Łostowice Świętokrzyska,Łostowice Świętokrzyska,1.0,Gdańsk,54.32329,18.60623
+63,Zakoniczyn,Zakoniczyn,1.0,Gdańsk,54.31981,18.57735
+64,Jaworzniaków,Jaworzniaków,1.0,Gdańsk,54.31804,18.56873
+65,,Uniwersytet Morski,,,54.52786,18.50898
+67,Jasień Pólnicy,Jasień Pólnicy,1.0,Gdańsk,54.34111,18.56103
+68,Oliwa,Oliwa,1.0,Gdańsk,54.40961,18.56699
+69,Zaspa,Zaspa,1.0,Gdańsk,54.39982,18.59561
+70,Siedlce,Siedlce ,1.0,Gdańsk,54.34831,18.60648
+71,,Mireckiego,,,54.52959,18.50268
+72,Nowy Port Góreckiego,Nowy Port Góreckiego,1.0,Gdańsk,54.40003,18.67112
+73,Nowy Port Oliwska,Nowy Port Oliwska,1.0,Gdańsk,54.40143,18.67493
+74,Brzeźno,Brzeźno,1.0,Gdańsk,54.40732,18.63812
+75,Strzyża PKM,Strzyża PKM,1.0,Gdańsk,54.39117,18.57821
+76,Przeróbka,Przeróbka (techniczny),1.0,Gdańsk,54.3578,18.68403
+77,,Kalksztajnów,,,54.53156,18.49503
+78,,Komandorska - Hotel,,,54.52952,18.49661
+79,,Dembińskiego,,,54.5278,18.49407
+80,,Sambora,,,54.52756,18.49584
+81,,Krofeya,,,54.52821,18.49698
+82,,Redłowo SKM,,,54.49125,18.53718
+83,,Morska - Estakada,,,54.5333,18.48953
+84,,Grabówek SKM,,,54.53412,18.49444
+85,,Technikum Chłodnicze,,,54.52714,18.49001
+86,,Leszczynki II,,,54.52777,18.48126
+87,,Leszczynki I,,,54.5298,18.48373
+88,,Kordeckiego,,,54.53098,18.48614
+89,,Plac Górnośląski,,,54.48353,18.53857
+90,,Węzeł Żołnierzy Wyklętych,,,54.53483,18.48226
+91,,Łowicka,,,54.48122,18.53104
+92,,Zamenhofa,,,54.53773,18.47856
+93,,Olgierda,,,54.47839,18.52366
+94,,Leszczynki SKM,,,54.54111,18.47649
+95,Zajezdnia NOWY PORT,Zajezdnia Nowy Port (techniczny),1.0,Gdańsk,54.39708,18.67365
+96,,Lidzka,,,54.47558,18.51608
+97,,Pucka,,,54.54338,18.46778
+98,Baza Hallera,Baza Hallera (techniczny),1.0,Gdańsk,54.39722,18.62155
+99,,Racławicka,,,54.47224,18.51306
+100,,Karwiny PKM,,,54.46929,18.50569
+101,,Kcyńska,,,54.54701,18.45349
+102,,Źródło Marii,,,54.47065,18.49477
+103,,Piaskowa,,,54.54823,18.44857
+104,,Brzechwy,,,54.47374,18.48952
+105,,Cisowa SKM,,,54.54991,18.4442
+106,,Karwiny Tuwima,,,54.47381,18.48456
+107,,Myśliwska,,,54.47124,18.48851
+108,,Chylonia Dworzec PKP,,,54.54451,18.46311
+109,,Wiczlińska,,,54.47187,18.47883
+110,,Karwiny Tesco,,,54.47308,18.4776
+111,,Wiejska,,,54.53891,18.47058
+112,,Chylonia Centrum,,,54.54213,18.46002
+113,,Hipermarket Tesco - Morska,,,54.54437,18.45107
+114,,Zbożowa,,,54.5453,18.44698
+115,,Owsiana,,,54.54661,18.44049
+116,,Cisowa Sibeliusa,,,54.54909,18.43182
+117,,Zwycięstwa - Wielkopolska,,,54.48442,18.54638
+118,,Nawigatorów,,,54.4825,18.54961
+119,,Orłowo SKM - Orłowska,,,54.47867,18.55273
+120,,"Orłowo SKM - ""Klif""",,,54.47592,18.55314
+121,,Kolibki,,,54.47319,18.55383
+122,,Bernadowska,,,54.46321,18.55384
+123,,Nałkowskiej,,,54.46987,18.49894
+124,,Elektrowozownia SKM,,,54.55209,18.42195
+125,,Jęczmienna,,,54.54743,18.44199
+126,,Wolności - II LO,,,54.51875,18.51924
+127,,Wielki Kack Starodworcowa,,,54.46461,18.49647
+128,,Działki Leśne - Sztumska,,,54.51706,18.51698
+129,,Lipowa,,,54.47009,18.49062
+130,,Szczecińska ,,,54.51823,18.52119
+131,,Liceum Jezuitów,,,54.51568,18.52465
+132,,Gryfa Pomorskiego,,,54.46764,18.48725
+133,,Nowogrodzka,,,54.51368,18.52423
+134,,Tatrzańska - Olsztyńska,,,54.51297,18.52466
+135,,Hipermarket Tesco / OBI,,,54.53885,18.45352
+136,,Kwidzyńska I,,,54.51189,18.525
+137,,Kwidzyńska II,,,54.51088,18.528
+138,,Urząd Pracy,,,54.52134,18.52384
+139,,Kołłątaja,,,54.52276,18.51983
+140,,Plac Neptuna,,,54.5227,18.51728
+141,,Beniowskiego - Akademiki,,,54.52375,18.51285
+142,,Grabowo,,,54.52403,18.50822
+143,Lessowa,Lessowa,1.0,Gdańsk,54.36281,18.70524
+144,,Stoigniewa,,,54.52779,18.4849
+145,,Ściegiennego,,,54.53106,18.48263
+146,Wały Piastowskie ,Wały Piastowskie,1.0,Gdańsk,54.35843,18.64744
+147,Aksamitna,Aksamitna,1.0,Gdańsk,54.35846,18.6523
+148,Rybaki Górne,Rybaki Górne,1.0,Gdańsk,54.35815,18.65579
+149,Śródmieście SKM,Śródmieście SKM,1.0,Gdańsk,54.34794,18.64373
+150,Toruńska,Toruńska,1.0,Gdańsk,54.34616,18.6456
+151,Łagiewniki,Łagiewniki,1.0,Gdańsk,54.3588,18.64937
+152,Dworzec Główny,Dworzec Główny,1.0,Gdańsk,54.35483,18.64512
+153,,Rozewska,,,54.53752,18.4702
+154,Hucisko,Hucisko,1.0,Gdańsk,54.35197,18.64485
+155,Brama Wyżynna,Brama Wyżynna,1.0,Gdańsk,54.35032,18.64628
+156,Chłodna,Chłodna,1.0,Gdańsk,54.34333,18.66275
+157,,Bażyńskiego,,,54.52973,18.48874
+158,Żabi Kruk,Żabi Kruk,1.0,Gdańsk,54.34645,18.65135
+159,Szafarnia,Szafarnia,1.0,Gdańsk,54.34745,18.66108
+160,Brama Żuławska,Brama Żuławska,1.0,Gdańsk,54.34751,18.66882
+161,Bajki,Bajki,1.0,Gdańsk,54.35634,18.68185
+162,Elbląska,Elbląska,1.0,Gdańsk,54.34914,18.6702
+163,Dickensa,Dickensa (N/Ż),1.0,Gdańsk,54.35739,18.69021
+164,Głęboka,Głęboka,1.0,Gdańsk,54.35235,18.67165
+165,Kaczeńce - Sienna,Kaczeńce - Sienna (N/Ż),1.0,Gdańsk,54.35869,18.69777
+166,Przeróbka,Przeróbka,1.0,Gdańsk,54.35747,18.68354
+167,Sucharskiego,Sucharskiego,1.0,Gdańsk,54.35993,18.69048
+168,Sówki,Sówki,1.0,Gdańsk,54.36141,18.7295
+169,Steczka,Steczka,1.0,Gdańsk,54.35962,18.74071
+170,Kępna,Kępna (N/Ż),1.0,Gdańsk,54.35913,18.74585
+171,Baza Manipulacyjna,Baza Manipulacyjna (N/Ż),1.0,Gdańsk,54.35367,18.75701
+172,Łęczycka,Łęczycka,1.0,Gdańsk,54.35588,18.76366
+173,Budzysza,Budzysza,1.0,Gdańsk,54.36076,18.6919
+174,,Kalksztajnów - Bloki,,,54.52868,18.49238
+175,Sucharskiego - PKP,Sucharskiego - PKP (N/Ż),1.0,Gdańsk,54.37657,18.68265
+176,Ku Ujściu,Ku Ujściu (N/Ż),1.0,Gdańsk,54.38005,18.679
+177,De Plelo,De Plelo (N/Ż),1.0,Gdańsk,54.38962,18.6759
+178,Charpentiera,Charpentiera (N/Ż),1.0,Gdańsk,54.39348,18.68436
+179,Pokładowa,Pokładowa (N/Ż),1.0,Gdańsk,54.39642,18.68478
+180,Pokładowa,Pokładowa  (N/Ż),1.0,Gdańsk,54.39637,18.68463
+181,Przystań Żeglugi,Przystań Żeglugi,1.0,Gdańsk,54.40407,18.68157
+182,Borska,Borska (N/Ż),1.0,Gdańsk,54.34829,18.47892
+183,Brodnicka,Brodnicka,1.0,Gdańsk,54.34574,18.47671
+184,Żarnowiecka,Żarnowiecka,1.0,Gdańsk,54.34557,18.67879
+185,Siennicka,Siennicka,1.0,Gdańsk,54.35745,18.67906
+186,Przetoczna,Przetoczna,1.0,Gdańsk,54.3607,18.67283
+187,Przejazd Kolejowy,Przejazd Kolejowy,1.0,Gdańsk,54.3662,18.67358
+188,Kujawska,Kujawska,1.0,Gdańsk,54.37692,18.67072
+189,Mostek,Mostek,1.0,Gdańsk,54.34936,18.67455
+190,Miałki Szlak,Miałki Szlak (N/Ż),1.0,Gdańsk,54.34886,18.68411
+191,Węzeł Elbląska,Węzeł Elbląska (N/Ż),1.0,Gdańsk,54.34894,18.69207
+192,Błonia,Błonia,1.0,Gdańsk,54.35138,18.70376
+193,Tarcice,Tarcice,1.0,Gdańsk,54.35233,18.70851
+194,Michałki,Michałki (N/Ż),1.0,Gdańsk,54.3472,18.71802
+195,Rafineria,Rafineria,1.0,Gdańsk,54.34404,18.7219
+196,Rejenta,Rejenta,1.0,Gdańsk,54.34225,18.60559
+197,Zosi,Zosi,1.0,Gdańsk,54.34354,18.61137
+198,Domeyki,Domeyki,1.0,Gdańsk,54.3451,18.61156
+199,Soplicy,Soplicy,1.0,Gdańsk,54.34505,18.60704
+200,Chrobrego,Chrobrego (N/Ż),1.0,Gdańsk,54.38796,18.61767
+201,Ostroroga,Ostroroga,1.0,Gdańsk,54.38773,18.62409
+202,Klonowicza,Klonowicza,1.0,Gdańsk,54.38724,18.62835
+203,Leszczyńskich,Leszczyńskich,1.0,Gdańsk,54.39994,18.60679
+204,Meissnera,Meissnera,1.0,Gdańsk,54.40186,18.60291
+205,Olsztyńska,Olsztyńska,1.0,Gdańsk,54.40565,18.60399
+206,Radunica,Pruszcz Radunica (N/Ż),1.0,Gdańsk,54.27884,18.63945
+207,Sobieszewo,Sobieszewo,1.0,Gdańsk,54.34359,18.82609
+208,Kanałowa,Kanałowa (N/Ż),1.0,Gdańsk,54.3428,18.83915
+209,Pole Namiotowe,Pole Namiotowe (N/Ż),1.0,Gdańsk,54.34239,18.86483
+210,Lazurowa,Lazurowa,1.0,Gdańsk,54.34166,18.87289
+211,Orlinki,Orlinki (N/Ż),1.0,Gdańsk,54.34025,18.88645
+212,Kwiatowa,Kwiatowa,1.0,Gdańsk,54.33939,18.89365
+213,Trałowa - Szkoła,Trałowa - Szkoła,1.0,Gdańsk,54.33711,18.91078
+214,Kempingowa,Kempingowa,1.0,Gdańsk,54.33655,18.9165
+215,Węgorzowa,Węgorzowa,1.0,Gdańsk,54.33615,18.9255
+216,Przystań,Przystań,1.0,Gdańsk,54.33443,18.9342
+217,Świbnieńska I,Świbnieńska I (N/Ż),1.0,Gdańsk,54.32959,18.93303
+218,Uzdrowiskowa,Uzdrowiskowa (N/Ż),1.0,Gdańsk,54.3226,18.93189
+219,Świbnieńska III,Świbnieńska III,1.0,Gdańsk,54.31492,18.93062
+220,Przegalińska,Przegalińska (N/Ż),1.0,Gdańsk,54.30988,18.92535
+221,Benzynowa,Benzynowa (N/Ż),1.0,Gdańsk,54.34169,18.7528
+222,Oczyszczalnia,Oczyszczalnia (N/Ż),1.0,Gdańsk,54.34217,18.75799
+223,Naftowa,Naftowa (N/Ż),1.0,Gdańsk,54.34287,18.76952
+224,Płońska,Płońska (N/Ż),1.0,Gdańsk,54.34705,18.77397
+225,Zagroble,Zagroble (N/Ż),1.0,Gdańsk,54.34693,18.78514
+226,,Raduńska,,,54.53792,18.45824
+227,Cedrowa,Cedrowa,1.0,Gdańsk,54.33914,18.58661
+228,Nowa Gdańska,Nowa Gdańska (N/Ż),1.0,Gdańsk,54.39711,18.63405
+229,Jodowa,Jodowa,1.0,Gdańsk,54.34586,18.82041
+230,Tęczowa,Tęczowa (N/Ż),1.0,Gdańsk,54.34829,18.80993
+231,,Jaskółcza,,,54.53389,18.45328
+232,Nadwiślańska,Nadwiślańska (N/Ż),1.0,Gdańsk,54.3489,18.80357
+233,Ornitologów,Ornitologów (N/Ż),1.0,Gdańsk,54.34909,18.79867
+234,Sierpowa,Sierpowa,1.0,Gdańsk,54.33786,18.67404
+235,Bratki,Bratki,1.0,Gdańsk,54.33461,18.67104
+236,Gęsia,Gęsia,1.0,Gdańsk,54.33097,18.66711
+237,Olszynka - Niwki,Olszynka Niwki,1.0,Gdańsk,54.33591,18.67726
+238,,Bławatna,,,54.53338,18.44831
+239,Zawodzie,Zawodzie,1.0,Gdańsk,54.33932,18.6867
+240,Maki,Maki,1.0,Gdańsk,54.34511,18.67471
+241,Muzeum Narodowe,Muzeum Narodowe,1.0,Gdańsk,54.34477,18.64815
+242,Dolna,Dolna,1.0,Gdańsk,54.34334,18.65888
+243,Wróbla,Wróbla,1.0,Gdańsk,54.3405,18.65788
+244,Brama Nizinna,Brama Nizinna,1.0,Gdańsk,54.34054,18.648
+245,,Wiklinowa,,,54.53472,18.44413
+246,Mostowa,Mostowa,1.0,Gdańsk,54.33635,18.64862
+247,Elmet,Elmet (N/Ż),1.0,Gdańsk,54.33981,18.64038
+248,Zremb,Zremb (N/Ż),1.0,Gdańsk,54.33594,18.63661
+249,Sandomierska,Sandomierska ,1.0,Gdańsk,54.33244,18.6348
+250,,Żurawia,,,54.5379,18.4392
+251,Rejtana,Rejtana,1.0,Gdańsk,54.32841,18.63405
+252,Gościnna,Gościnna,1.0,Gdańsk,54.32328,18.63173
+253,Nowiny,Nowiny ,1.0,Gdańsk,54.31921,18.6303
+254,Urząd Dozoru Technicznego,Urząd Dozoru Technicznego,1.0,Gdańsk,54.31581,18.62936
+255,Ukośna,Ukośna,1.0,Gdańsk,54.31092,18.62953
+256,,Pustki Cisowskie,,,54.53902,18.43474
+257,Niegowska,Niegowska,1.0,Gdańsk,54.30279,18.63081
+258,Węzeł Lipce,Węzeł Lipce (N/Ż),1.0,Gdańsk,54.29804,18.63258
+259,Ostróżek,Ostróżek (N/Ż),1.0,Gdańsk,54.29036,18.63663
+260,Ptasia,Ptasia,1.0,Gdańsk,54.33031,18.62802
+261,Małomiejska,Małomiejska (N/Ż),1.0,Gdańsk,54.32961,18.61904
+262,Platynowa,Platynowa,1.0,Gdańsk,54.32631,18.61128
+263,Uranowa,Uranowa,1.0,Gdańsk,54.32611,18.6204
+264,Dom Pomocy Społecznej,Dom Pomocy Społecznej,1.0,Gdańsk,54.3099,18.62018
+265,Zaroślak,Zaroślak,1.0,Gdańsk,54.34236,18.64229
+266,Cmentarna,Cmentarna (N/Ż),1.0,Gdańsk,54.34079,18.63566
+267,Stoczniowców,Stoczniowców (N/Ż),1.0,Gdańsk,54.34325,18.63179
+268,Reformacka,Reformacka,1.0,Gdańsk,54.34255,18.63054
+269,Wronki,Wronki,1.0,Gdańsk,54.34222,18.62831
+270,,Kamienny Potok SKM,,,54.45849,18.5546
+271,Grabowskiego,Grabowskiego,1.0,Gdańsk,54.34169,18.62137
+272,Dragana - Kładka,Dragana - Kładka,1.0,Gdańsk,54.34106,18.61164
+273,Dragana - Szkoła,Dragana - Szkoła,1.0,Gdańsk,54.33943,18.60598
+274,Cieszyńskiego,Cieszyńskiego,1.0,Gdańsk,54.33826,18.60979
+275,,Sikorskiego (N/Ż),,,54.33886,18.61888
+276,Pohulanka,Pohulanka (N/Ż),1.0,Gdańsk,54.34846,18.63683
+277,Odrzańska,Odrzańska (N/Ż),1.0,Gdańsk,54.34513,18.62567
+278,Worcella,Worcella,1.0,Gdańsk,54.34118,18.62639
+279,Drwęcka (n/ż),Drwęcka,1.0,Gdańsk,54.34492,18.61803
+280,Chałubińskiego,Chałubińskiego (N/Ż),1.0,Gdańsk,54.34211,18.61801
+281,Chałubińskiego,Chałubińskiego,1.0,Gdańsk,54.34216,18.61708
+282,Urząd Miejski,Urząd Miejski,1.0,Gdańsk,54.35136,18.63921
+283,Bema,Bema,1.0,Gdańsk,54.3507,18.632
+284,Zakopiańska,Zakopiańska,1.0,Gdańsk,54.34887,18.61877
+285,,Kamienny Potok - Kujawska,,,54.45847,18.54771
+286,Emaus,Emaus,1.0,Gdańsk,54.34746,18.6043
+287,Siedlce,Siedlce,1.0,Gdańsk,54.34855,18.60667
+288,Zielony Stok,Zielony Stok,1.0,Gdańsk,54.34559,18.59607
+289,,Chabrowa,,,54.53237,18.45573
+290,Pagórkowa,Pagórkowa,1.0,Gdańsk,54.34504,18.59142
+291,Damroki,Damroki,1.0,Gdańsk,54.33867,18.56424
+292,Zwierzyniecka,Zwierzyniecka (N/Ż),1.0,Gdańsk,54.34155,18.55584
+293,,Rybińskiego,,,54.52953,18.45819
+294,Źródlana,Źródlana,1.0,Gdańsk,54.34198,18.55352
+295,Jasień Działki,Jasień Działki (N/Ż),1.0,Gdańsk,54.34432,18.54227
+296,Węzeł Karczemki,Węzeł Karczemki (N/Ż),1.0,Gdańsk,54.34734,18.5279
+297,Karczemki,Karczemki,1.0,Gdańsk,54.34964,18.51244
+298,,Junaków,,,54.45551,18.54743
+299,Inżynierska,Inżynierska (N/Ż),1.0,Gdańsk,54.35179,18.50124
+300,Fabryczna,Fabryczna,1.0,Gdańsk,54.35329,18.49447
+301,,Demptowo,,,54.52535,18.46314
+302,Transportowców,Transportowców,1.0,Gdańsk,54.35941,18.49139
+303,Nowatorów,Nowatorów,1.0,Gdańsk,54.36405,18.49177
+304,Kokoszki - Poczta,Kokoszki Poczta (N/Ż),1.0,Gdańsk,54.36385,18.48111
+305,,Małopolska,,,54.45562,18.54343
+306,Gronostajowa,Gronostajowa (N/Ż),1.0,Gdańsk,54.34281,18.54935
+307,Pólnicy,Pólnicy,1.0,Gdańsk,54.34044,18.5593
+308,Unimor,Unimor (N/Ż),1.0,Gdańsk,54.36401,18.47239
+309,,Demptowo - Jednostka Wojskowa,,,54.52058,18.44934
+310,Centrostal,Centrostal (N/Ż),1.0,Gdańsk,54.36636,18.46767
+311,"Schronisko dla zwierząt ""Promyk""","Schronisko dla zwierząt ""Promyk"" (N/Ż)",1.0,Gdańsk,54.36913,18.46222
+312,Instal,Instal (N/Ż),1.0,Gdańsk,54.3675,18.46569
+313,,Otomińska (N/Ż),,,54.34412,18.51058
+314,,Kolberga,,,54.45715,18.53792
+315,Kiełpino - Szkoła,Kiełpino - Szkoła,1.0,Gdańsk,54.33976,18.50809
+316,Nowa Bulońska,Nowa Bulońska,1.0,Gdańsk,54.3284,18.56972
+317,Szkoła Podstawowa nr 6,Szkoła Podstawowa nr 6,1.0,Gdańsk,54.32626,18.5686
+318,Cmentarz Łostowicki,Cmentarz Łostowicki,1.0,Gdańsk,54.34003,18.60132
+319,Kielecka,Kielecka,1.0,Gdańsk,54.33403,18.59196
+320,,Brodwino,,,54.45768,18.5344
+321,Przemyska,Przemyska,1.0,Gdańsk,54.33327,18.59614
+322,Płocka,Płocka,1.0,Gdańsk,54.32899,18.59867
+323,Łódzka,Łódzka (N/Ż),1.0,Gdańsk,54.32308,18.60284
+324,Niepołomicka,Niepołomicka,1.0,Gdańsk,54.32023,18.59515
+325,Przebiśniegowa,Przebiśniegowa,1.0,Gdańsk,54.31585,18.59374
+326,Przemian,Przemian (N/Ż),1.0,Gdańsk,54.305,18.60391
+327,Starogardzka,Starogardzka,1.0,Gdańsk,54.30211,18.60841
+328,Hevelianum,Hevelianum,1.0,Gdańsk,54.35275,18.63489
+329,Płowce,Płowce,1.0,Gdańsk,54.35592,18.63011
+330,Cygańska Góra,Cygańska Góra,1.0,Gdańsk,54.35712,18.61987
+331,Wagnera,Wagnera,1.0,Gdańsk,54.35578,18.61359
+332,Otwarta,Otwarta,1.0,Gdańsk,54.35596,18.6034
+333,Kurpińskiego,Kurpińskiego,1.0,Gdańsk,54.35528,18.59715
+334,Nad Jarem,Nad Jarem,1.0,Gdańsk,54.35376,18.61434
+335,Wileńska,Piecki Wileńska,1.0,Gdańsk,54.36183,18.59507
+336,Park Naukowo - Technologiczny,Park Naukowo - Technologiczny,1.0,Gdańsk,54.35458,18.5958
+337,Jaśkowa Dolina,Jaśkowa Dolina,1.0,Gdańsk,54.37784,18.60663
+338,Nowolipie,Nowolipie (N/Ż),1.0,Gdańsk,54.34975,18.59829
+339,Matejki,Matejki,1.0,Gdańsk,54.37485,18.6131
+340,Uphagena,Uphagena,1.0,Gdańsk,54.37668,18.6151
+341,Siedlicka,Siedlicka,1.0,Gdańsk,54.37005,18.6113
+342,Kręta,Kręta,1.0,Gdańsk,54.36735,18.61299
+343,,Łużycka,,,54.45555,18.5513
+344,Jarowa,Jarowa,1.0,Gdańsk,54.36425,18.61194
+345,Pomorskie Szkoły Rzemiosł,Pomorskie Szkoły Rzemiosł,1.0,Gdańsk,54.36194,18.61108
+346,Schumana,Schumana,1.0,Gdańsk,54.35923,18.6038
+347,Schuberta,Schuberta ,1.0,Gdańsk,54.35746,18.59951
+348,Na Wzgórzu,Na Wzgórzu,1.0,Gdańsk,54.37042,18.5973
+349,Sobótki,Sobótki,1.0,Gdańsk,54.37448,18.60547
+350,,Wejherowska,,,54.45304,18.55528
+351,Falista,Falista (N/Ż),1.0,Gdańsk,54.36787,18.59324
+352,Strzelnica,Strzelnica (N/Ż),1.0,Gdańsk,54.36552,18.58893
+353,,Chylonia Krzywoustego ,,,54.54591,18.4689
+354,Dobrowolskiego,Dobrowolskiego,1.0,Gdańsk,54.36067,18.58955
+355,Piecewska,Piecewska,1.0,Gdańsk,54.35837,18.58693
+356,Warneńska,Warneńska,1.0,Gdańsk,54.35767,18.58296
+357,,Malczewskiego,,,54.45035,18.55304
+358,Budapesztańska,Budapesztańska,1.0,Gdańsk,54.35574,18.57814
+359,,II Urząd Skarbowy,,,54.54776,18.47158
+360,Brętowo PKM,Brętowo PKM,1.0,Gdańsk,54.36431,18.57331
+361,Kolumba,Kolumba,1.0,Gdańsk,54.36033,18.57789
+362,Galeria Bałtycka,Galeria Bałtycka,1.0,Gdańsk,54.38298,18.59881
+363,,Cmentarz,,,54.45098,18.54826
+364,Chrzanowskiego,Chrzanowskiego,1.0,Gdańsk,54.38013,18.58689
+365,Srebrniki,Srebrniki,1.0,Gdańsk,54.37891,18.5806
+366,,Hutnicza - Stacja Paliw Lotos,,,54.54531,18.47735
+367,Trawki,Trawki (N/Ż),1.0,Gdańsk,54.37797,18.57462
+368,Potokowa,Potokowa,1.0,Gdańsk,54.37464,18.56879
+369,Rybacka,Rybacka,1.0,Gdańsk,54.42428,18.57754
+370,,Brodwino - Szkoła,,,54.45608,18.53129
+371,Słowackiego Działki,Słowackiego Działki (N/Ż),1.0,Gdańsk,54.37058,18.55627
+372,Harfowa,Harfowa,1.0,Gdańsk,54.37604,18.52317
+373,,"Hala ""Makro""",,,54.54204,18.48502
+374,Agrarna,Agrarna,1.0,Gdańsk,54.37628,18.5097
+375,Astronautów,Astronautów,1.0,Gdańsk,54.37709,18.50294
+376,Szybowcowa,Szybowcowa (N/Ż),1.0,Gdańsk,54.37881,18.48843
+377,Firoga,Firoga,1.0,Gdańsk,54.37973,18.48323
+378,,Hutnicza - Estakada,,,54.53794,18.4934
+379,Radarowa,Radarowa,1.0,Gdańsk,54.38457,18.48614
+380,Ikara,Ikara,1.0,Gdańsk,54.38898,18.48225
+381,Radiowa,Radiowa (N/Ż),1.0,Gdańsk,54.39003,18.47561
+382,Spadochroniarzy,Spadochroniarzy,1.0,Gdańsk,54.38571,18.47056
+383,Rakietowa,Rakietowa (N/Ż),1.0,Gdańsk,54.37009,18.48124
+384,Kosmonautów,Kosmonautów (N/Ż),1.0,Gdańsk,54.37283,18.47332
+385,Bysewo,Bysewo (N/Ż),1.0,Gdańsk,54.37544,18.46278
+386,"Ogrody Działkowe ""Rębiechowo"" II","Ogrody Działkowe ""Rębiechowo"" II (N/Ż)",1.0,Gdańsk,54.37769,18.45333
+387,"Ogrody Działkowe ""Rębiechowo"" I","Ogrody Działkowe ""Rębiechowo"" I (N/Ż)",1.0,Gdańsk,54.37887,18.44833
+388,Przyrodników,Przyrodników,1.0,Gdańsk,54.38425,18.4327
+389,,Anyżowa,,,54.47464,18.46855
+390,,Dąbrowa Centrum,,,54.47456,18.46417
+391,,Bohaterów Monte Cassino,,,54.44302,18.55967
+392,,Wiczlińska - Las,,,54.47818,18.45124
+393,Ogrodowa,Ogrodowa (N/Ż) ,1.0,Gdańsk,54.3695,18.57099
+394,,Wiczlino Działki II,,,54.48112,18.44249
+395,Ogrodowa,Ogrodowa (N/Ż),1.0,Gdańsk,54.37136,18.57022
+396,,Wiczlino Działki I,,,54.48177,18.43732
+397,Dolne Młyny,Dolne Młyny (N/Ż),1.0,Gdańsk,54.36665,18.56773
+398,,Wiczlińska - Śliska,,,54.48335,18.43728
+399,,Gradowa,,,54.48605,18.4326
+400,Potokowa - Matemblewska,Potokowa - Matemblewska (N/Ż),1.0,Gdańsk,54.36646,18.5631
+401,,Wiczlino Skrzyżowanie,,,54.49066,18.42398
+402,,Potok Wiczliński,,,54.49424,18.41997
+403,Podkarpacka,Podkarpacka,1.0,Gdańsk,54.37798,18.56613
+404,,Kmicica,,,54.49777,18.41684
+405,,Fregatowa,,,54.50179,18.41341
+406,Kilińskiego,Kilińskiego,1.0,Gdańsk,54.38536,18.60317
+407,,Wiczlino Niemotowo,,,54.50633,18.40498
+408,Legionów,Legionów,1.0,Gdańsk,54.38743,18.61149
+409,,Sikorskiego ,,,54.44159,18.55875
+410,Kopalniana,Kopalniana,1.0,Gdańsk,54.38981,18.61696
+411,Ciołkowskiego,Ciołkowskiego,1.0,Gdańsk,54.39433,18.61756
+412,Drzewieckiego,Drzewieckiego,1.0,Gdańsk,54.39544,18.61276
+413,Korczaka,Korczaka (N/Ż),1.0,Gdańsk,54.39924,18.60861
+414,,Zaruskiego,,,54.49441,18.43015
+415,Zaspa - Szpital,Zaspa Szpital,1.0,Gdańsk,54.4037,18.61191
+416,,Kamrowskiego,,,54.49711,18.43088
+417,Czarny Dwór,Czarny Dwór,1.0,Gdańsk,54.40678,18.61637
+418,,Gierdziejewskiego,,,54.49913,18.43384
+419,Grudziądzka,Grudziądzka,1.0,Gdańsk,54.39686,18.62202
+420,,Sokoła,,,54.49883,18.44113
+421,Lwowska,Lwowska,1.0,Gdańsk,54.38967,18.62205
+422,,Tezeusza,,,54.50029,18.44966
+423,Mickiewicza,Mickiewicza,1.0,Gdańsk,54.38338,18.62058
+424,,Chwarzno Apollina,,,54.50027,18.45769
+425,Biała,Biała,1.0,Gdańsk,54.37804,18.61536
+426,Bora Komorowskiego,Bora - Komorowskiego,1.0,Gdańsk,54.40875,18.5865
+427,,Okrężna II,,,54.5002,18.4668
+428,,Okrężna I,,,54.49986,18.47069
+429,Czerwony Dwór,Czerwony Dwór,1.0,Gdańsk,54.41237,18.58897
+430,,Witomino Sosnowa,,,54.49838,18.49462
+431,,Uczniowska,,,54.49852,18.50224
+432,Jagiellońska,Jagiellońska,1.0,Gdańsk,54.41312,18.59316
+433,,Witomino Centrum,,,54.49774,18.50927
+434,,Stawna,,,54.49467,18.50796
+435,Park Reagana,Park Reagana,1.0,Gdańsk,54.41404,18.59838
+436,,Witomino Leśniczówka,,,54.49136,18.51219
+437,Biały Dwór,Biały Dwór,1.0,Gdańsk,54.40912,18.60482
+438,,Witomino Polna,,,54.49501,18.51486
+439,,Długa,,,54.49621,18.51191
+440,Opolska,Opolska,1.0,Gdańsk,54.40513,18.59784
+441,,"Centrum Handlowe ""Riviera""",,,54.50384,18.5332
+442,,Pucka - Hutnicza,,,54.54933,18.46779
+443,Kołobrzeska,Kołobrzeska,1.0,Gdańsk,54.40428,18.5934
+444,,Rolnicza ,,,54.50071,18.51355
+445,Krynicka,Przymorze Krynicka,1.0,Gdańsk,54.40362,18.58799
+446,,Węzeł Franciszki Cegielskiej,,,54.50803,18.53325
+447,,Cmentarz Witomiński,,,54.50994,18.52011
+448,Chłopska,Chłopska ,1.0,Gdańsk,54.40824,18.59106
+449,,Poznańska,,,54.51098,18.53114
+450,Obrońców Wybrzeża,Obrońców Wybrzeża ,1.0,Gdańsk,54.40886,18.59432
+451,Przymorze Wielkie,Przymorze Wielkie,1.0,Gdańsk,54.41053,18.60316
+452,,Pucka - Przejazd Kolejowy,,,54.55181,18.46773
+453,Leszczyńskich,Leszczyńskich ,1.0,Gdańsk,54.4,18.60797
+454,,Chwarzno Sokółka,,,54.49764,18.43835
+455,Rzeczypospolitej,Rzeczypospolitej,1.0,Gdańsk,54.39604,18.60378
+456,,Amona,,,54.49981,18.44706
+457,Dywizjonu 303,Dywizjonu 303,1.0,Gdańsk,54.39312,18.60011
+458,Pilotów,Pilotów,1.0,Gdańsk,54.39232,18.59828
+459,,Elektrociepłownia - Pucka,,,54.55561,18.47164
+460,Pomorska,Pomorska,1.0,Gdańsk,54.41925,18.58414
+461,Piastowska,Piastowska,1.0,Gdańsk,54.41678,18.58688
+462,Dworska,Dworska,1.0,Gdańsk,54.40416,18.6272
+463,,Uniwersytet Gdański,,,54.44433,18.55612
+464,PCK,PCK,1.0,Gdańsk,54.40442,18.63252
+465,,Złota,,,54.55806,18.47472
+466,Zespół Szkół Morskich,Zespół Szkół Morskich,1.0,Gdańsk,54.40355,18.65393
+467,Wyzwolenia,Wyzwolenia,1.0,Gdańsk,54.40049,18.66096
+468,Nowy Port Zajezdnia,Nowy Port Zajezdnia,1.0,Gdańsk,54.39793,18.67325
+469,Władysława IV,Władysława IV,1.0,Gdańsk,54.39988,18.67514
+470,,Żeromskiego,,,54.44051,18.55124
+471,Cystersów,Cystersów,1.0,Gdańsk,54.409,18.55554
+473,Karwieńska,Karwieńska (N/Ż),1.0,Gdańsk,54.41139,18.54686
+475,Rynarzewo,Rynarzewo (N/Ż),1.0,Gdańsk,54.42163,18.53778
+477,Osowa Obwodnica,Osowa Obwodnica,1.0,Gdańsk,54.42888,18.49606
+479,Sopocka,Sopocka,1.0,Gdańsk,54.4301,18.47627
+481,,Osiedle Mickiewicza,,,54.43914,18.54784
+482,Nowa,Nowa,1.0,Gdańsk,54.43251,18.47132
+484,Barniewicka,Barniewicka,1.0,Gdańsk,54.43421,18.46608
+486,Niedziałkowskiego,Niedziałkowskiego,1.0,Gdańsk,54.43028,18.46199
+487,Biwakowa,Biwakowa,1.0,Gdańsk,54.42703,18.4599
+488,Nowy Świat,Nowy Świat,1.0,Gdańsk,54.41877,18.45044
+489,Tysiąclecia,Tysiąclecia,1.0,Gdańsk,54.41737,18.5921
+490,Poznańska,Poznańska (N/Ż),1.0,Gdańsk,54.41437,18.57934
+491,Droszyńskiego,Droszyńskiego,1.0,Gdańsk,54.41254,18.57364
+492,Sarnia,Sarnia,1.0,Gdańsk,54.41611,18.55858
+493,Cmentarz Oliwski,Cmentarz Oliwski,1.0,Gdańsk,54.41346,18.55714
+494,Bobrowa,Bobrowa (N/Ż),1.0,Gdańsk,54.41945,18.5605
+495,Czyżewskiego,Czyżewskiego (N/Ż),1.0,Gdańsk,54.42214,18.56199
+496,Brama Oliwska,Brama Oliwska (N/Ż),1.0,Gdańsk,54.36241,18.64022
+497,,Sopot PKP - Niepodległości,,,54.43856,18.56061
+498,Koziorożca,Koziorożca,1.0,Gdańsk,54.41979,18.4706
+499,Zeusa,Zeusa (N/Ż),1.0,Gdańsk,54.42226,18.46267
+500,Konkordii,Konkordii (N/Ż),1.0,Gdańsk,54.42448,18.45709
+501,,3 Maja ,,,54.4337,18.56152
+502,Archikatedra Oliwska,Archikatedra Oliwska (N/Ż),1.0,Gdańsk,54.41078,18.55705
+503,,Gruszkowa,,,54.54926,18.46119
+504,Startowa,Startowa,1.0,Gdańsk,54.39703,18.59796
+505,Karczemki Szkoła,Karczemki Szkoła,1.0,Gdańsk,54.3524,18.51104
+506,Maciejkowa,Maciejkowa,1.0,Gdańsk,54.35385,18.50519
+507,Św. Brata Alberta,Św. Brata Alberta,1.0,Gdańsk,54.3558,18.50384
+508,Fundamentowa,Fundamentowa (N/Ż),1.0,Gdańsk,54.35671,18.49411
+509,Montażystów,Montażystów (N/Ż),1.0,Gdańsk,54.35862,18.49779
+510,Pomorska - Osiedle,Pomorska - Osiedle,1.0,Gdańsk,54.418,18.57803
+511,Iławska,Iławska,1.0,Gdańsk,54.43956,18.45845
+512,,Sopot Reja,,,54.43139,18.56199
+513,Myśliborska,Myśliborska,1.0,Gdańsk,54.4419,18.45124
+514,Siedleckiego,Siedleckiego,1.0,Gdańsk,54.42952,18.46936
+515,,Hutnicza - Piaskowa,,,54.55229,18.44767
+516,Krzemowa,Krzemowa,1.0,Gdańsk,54.32462,18.61801
+517,al. Płażyńskiego,Aleja Płażyńskiego,1.0,Gdańsk,54.40128,18.62199
+518,Bluszczowa,Bluszczowa (N/Ż),1.0,Gdańsk,54.33786,18.66695
+519,Krasickiego,Krasickiego (N/Ż),1.0,Gdańsk,54.40599,18.64456
+520,Plac Wolności,Plac Wolności,1.0,Gdańsk,54.39908,18.66984
+521,Teatr Miniatura / Radio Gdańsk,Teatr Miniatura / Radio Gdańsk,1.0,Gdańsk,54.37519,18.6176
+522,,Handlowa,,,54.55357,18.44153
+523,Opera Bałtycka,Opera Bałtycka,1.0,Gdańsk,54.37244,18.62323
+524,Uniwersytet Medyczny,Uniwersytet Medyczny,1.0,Gdańsk,54.36734,18.63161
+525,Uniwersytet Medyczny,Uniwersytet Medyczny (N/Ż),1.0,Gdańsk,54.36765,18.63291
+526,Mostek,Mostek ,1.0,Gdańsk,54.34905,18.67436
+527,Kościuszki,Kościuszki (N/Ż),1.0,Gdańsk,54.38829,18.62261
+528,,Sopot PKP,,,54.44156,18.56355
+530,Łanowa II,Łanowa II (N/Ż),1.0,Gdańsk,54.32615,18.67281
+531,,Hutnicza - Działki,,,54.55675,18.42852
+533,Zajezdnia,Zajezdnia (N/Ż),1.0,Gdańsk,54.38877,18.58099
+534,,Pruszcz Rondo Kaszubskie,,,54.26608,18.62808
+535,Wyspiańskiego,Wyspiańskiego (N/Ż),1.0,Gdańsk,54.37638,18.62333
+536,,Złota Karczma,,,54.37475,18.52185
+537,Mjr Słabego,Majora Słabego,1.0,Gdańsk,54.37239,18.52229
+538,Żwirki i Wigury,Żwirki i Wigury (N/Ż),1.0,Gdańsk,54.39212,18.60612
+539,Legionów,Legionów (N/Ż),1.0,Gdańsk,54.38799,18.61027
+540,Obrońców Westerplatte,Obrońców Westerplatte (N/Ż),1.0,Gdańsk,54.40824,18.56284
+541,Kościuszki,Kościuszki,1.0,Gdańsk,54.38791,18.62123
+542,Bażyńskiego,Bażyńskiego (N/Ż),1.0,Gdańsk,54.39951,18.56777
+543,,Jana z Kolna,,,54.43473,18.5698
+544,Strzyża PKM,Strzyża PKM (N/Ż),1.0,Gdańsk,54.39085,18.57791
+545,Zamenhofa,Zamenhofa (N/Ż),1.0,Gdańsk,54.38682,18.58486
+546,Wojska Polskiego,Wojska Polskiego,1.0,Gdańsk,54.38645,18.59185
+547,Wojska Polskiego,Wojska Polskiego (N/Ż),1.0,Gdańsk,54.38713,18.58965
+548,,Rynek Non-Stop,,,54.43268,18.56711
+549,Jednorożca,Jednorożca,1.0,Gdańsk,54.42415,18.47886
+550,Marynarki Polskiej,Marynarki Polskiej,1.0,Gdańsk,54.39788,18.66658
+551,Śnieżna,Śnieżna (N/Ż),1.0,Gdańsk,54.3922,18.65787
+552,Stadion Energa Gdańsk,Stadion Energa Gdańsk,1.0,Gdańsk,54.38707,18.64885
+553,Swojska,Swojska (N/Ż),1.0,Gdańsk,54.37945,18.63454
+554,Stocznia Północna,Stocznia Północna (N/Ż),1.0,Gdańsk,54.37181,18.63377
+555,,Mierosławskiego,,,54.43332,18.57127
+556,Drzewieckiego,Drzewieckiego (N/Ż),1.0,Gdańsk,54.39498,18.61318
+557,Mickiewicza,Mickiewicza (N/Ż),1.0,Gdańsk,54.38366,18.62207
+558,Świbnieńska II,Świbnieńska II (N/Ż),1.0,Gdańsk,54.32619,18.93246
+559,Dworkowa,Dworkowa,1.0,Gdańsk,54.34445,18.68132
+560,Akademia Muzyczna,Akademia Muzyczna,1.0,Gdańsk,54.34463,18.66529
+561,Kamienna Grobla,Kamienna Grobla,1.0,Gdańsk,54.34178,18.6556
+562,Opacka,Opacka (N/Ż),1.0,Gdańsk,54.41388,18.56595
+563,Górskiego,Górskiego,1.0,Gdańsk,54.41877,18.56521
+564,Nadwodna,Nadwodna,1.0,Gdańsk,54.42281,18.56397
+565,Przesypownia,Przesypownia (N/Ż),1.0,Gdańsk,54.41672,18.45959
+566,Jeziorowa,Jeziorowa,1.0,Gdańsk,54.33457,18.55947
+567,Jaworowa,Jaworowa,1.0,Gdańsk,54.33877,18.55969
+568,Boguckiego,Boguckiego (N/Ż),1.0,Gdańsk,54.33806,18.90416
+569,Dobra,Dobra (N/Ż),1.0,Gdańsk,54.34119,18.65524
+570,Szadółki,Szadółki,1.0,Gdańsk,54.32839,18.55193
+571,Przywidzka,Przywidzka,1.0,Gdańsk,54.32525,18.54933
+572,Na Szańcach,Na Szańcach,1.0,Gdańsk,54.34469,18.6731
+573,Kliniczna,Kliniczna,1.0,Gdańsk,54.37514,18.62651
+574,,Grunwaldzka,,,54.43927,18.57369
+575,Stokrotki,Stokrotki,1.0,Gdańsk,54.33253,18.66619
+576,Botaniczna,Botaniczna (N/Ż),1.0,Gdańsk,54.36493,18.45928
+577,Grzybowa,Grzybowa (N/Ż),1.0,Gdańsk,54.36103,18.46093
+578,,Chopina ,,,54.4422,18.57121
+579,Kartuska,Kartuska (N/Ż),1.0,Gdańsk,54.35508,18.48997
+580,Kopeckiego,Kopeckiego,1.0,Gdańsk,54.33727,18.6128
+581,Łanowa I,Łanowa I (N/Ż),1.0,Gdańsk,54.32825,18.67029
+582,Łanowa III,Łanowa III (N/Ż),1.0,Gdańsk,54.32231,18.67724
+583,Łanowa IV,Łanowa IV (N/Ż),1.0,Gdańsk,54.31908,18.68102
+584,Modra I,Modra I (N/Ż),1.0,Gdańsk,54.31609,18.68543
+585,Modra II,Modra II (N/Ż),1.0,Gdańsk,54.32114,18.69353
+586,Modra III,Modra III (N/Ż),1.0,Gdańsk,54.32636,18.68749
+587,Modra IV,Modra IV (N/Ż),1.0,Gdańsk,54.32937,18.68401
+588,,Grand Hotel,,,54.4465,18.56781
+589,Bursztynowa,Bursztynowa (N/Ż),1.0,Gdańsk,54.42591,18.59288
+593,Życzliwa,Życzliwa (N/Ż),1.0,Gdańsk,54.34588,18.53334
+595,Gostyńska Szpital,Gostyńska Szpital (N/Ż),1.0,Gdańsk,54.3474,18.51065
+597,Piekarnicza,Piekarnicza,1.0,Gdańsk,54.35212,18.59188
+599,Belgradzka,Belgradzka (N/Ż),1.0,Gdańsk,54.35656,18.58719
+600,"SDO ""Złota Jesień""","SDO ""Złota Jesień"" (N/Ż)",1.0,Gdańsk,54.38697,18.59879
+601,Skarżyńskiego,Skarżyńskiego,1.0,Gdańsk,54.38692,18.60111
+602,Terminal - Cargo,Terminal - Cargo (N/Ż),1.0,Gdańsk,54.38274,18.47512
+605,Karskiego,Karskiego,1.0,Gdańsk,54.3637,18.55617
+607,,Skarbka I,,,54.52896,18.45695
+611,Beniowskiego,Beniowskiego (N/Ż),1.0,Gdańsk,54.40952,18.57776
+613,Świętokrzyska,Świętokrzyska (N/Ż),1.0,Gdańsk,54.32436,18.60387
+616,Góralska,Góralska (N/Ż),1.0,Gdańsk,54.37564,18.5641
+617,,Skarbka II,,,54.52679,18.45982
+618,"Ogrody Działkowe ""Rębiechowo"" III","Ogrody Działkowe ""Rębiechowo"" III (N/Ż)",1.0,Gdańsk,54.37389,18.46858
+619,Sikorskiego,Sikorskiego,1.0,Gdańsk,54.33826,18.61723
+620,Rozstaje,Rozstaje,1.0,Gdańsk,54.38886,18.60785
+621,Srebrna,Srebrna,1.0,Gdańsk,54.31282,18.59647
+622,,Jałowcowa,,,54.53042,18.44191
+623,Falowa,Falowa (N/Ż),1.0,Gdańsk,54.34307,18.83613
+624,Gospody,Gospody,1.0,Gdańsk,54.41982,18.58271
+625,Sobieszewska,Sobieszewska (N/Ż),1.0,Gdańsk,54.34692,18.8162
+626,Oriona,Oriona (N/Ż),1.0,Gdańsk,54.41745,18.45496
+627,,Marszewska,,,54.52739,18.43151
+628,Hynka,Hynka ,1.0,Gdańsk,54.39673,18.58801
+629,Olszyńska,Olszyńska,1.0,Gdańsk,54.33359,18.65681
+630,Olszyńska,Olszyńska ,1.0,Gdańsk,54.33405,18.65529
+631,Przybrzeżna,Przybrzeżna (N/Ż),1.0,Gdańsk,54.3349,18.64792
+632,Kolonia Mysia,Kolonia Mysia,1.0,Gdańsk,54.33196,18.64286
+633,,Goyki,,,54.44709,18.55912
+635,Głucha,Głucha,1.0,Gdańsk,54.32782,18.64123
+636,,Ogród Botaniczny Marszewo,,,54.52001,18.41525
+638,Saturna,Saturna,1.0,Gdańsk,54.41464,18.4466
+639,Keplera,Keplera (N/Ż),1.0,Gdańsk,54.41647,18.4678
+640,Wodnika,Wodnika (N/Ż),1.0,Gdańsk,54.41615,18.47829
+641,Wieżycka,Wieżycka,1.0,Gdańsk,54.3181,18.5868
+642,Przymorze SKM,Przymorze SKM,1.0,Gdańsk,54.40194,18.57844
+643,Abrahama,Abrahama ,1.0,Gdańsk,54.39388,18.58113
+644,Łapińska,Łapińska (N/Ż),1.0,Gdańsk,54.33975,18.50097
+645,Liliowa,Liliowa,1.0,Gdańsk,54.31549,18.59097
+646,Stokłosy,Stokłosy (N/Ż),1.0,Gdańsk,54.35231,18.47895
+647,Szadółki Obwodnica,Szadółki Obwodnica (N/Ż),1.0,Gdańsk,54.32297,18.54282
+648,Lubowidzka,Lubowidzka (N/Ż),1.0,Gdańsk,54.32798,18.53812
+649,Dębinki,Dębinki,1.0,Gdańsk,54.36322,18.631
+650,,Leśniczówka Rogulewo,,,54.5117,18.38783
+651,Norblina,Norblina,1.0,Gdańsk,54.38808,18.57149
+652,,Kraszewskiego,,,54.45467,18.55425
+653,Reymonta,Reymonta,1.0,Gdańsk,54.38298,18.58507
+654,Bajana,Bajana (N/Ż),1.0,Gdańsk,54.38942,18.60818
+655,Forsycji,Forsycji (N/Ż),1.0,Gdańsk,54.34239,18.85777
+656,Katownia,Katownia,1.0,Gdańsk,54.35049,18.6476
+657,Teatr Szekspirowski,Teatr Szekspirowski (N/Ż),1.0,Gdańsk,54.34837,18.64718
+658,Dom Fahrenheita,Dom Fahrenheita,1.0,Gdańsk,54.34757,18.65232
+659,Długi Targ,Długi Targ,1.0,Gdańsk,54.34874,18.65439
+660,Świętego Ducha,Świętego Ducha,1.0,Gdańsk,54.3502,18.65491
+661,Żuraw,Żuraw,1.0,Gdańsk,54.35085,18.6571
+662,Katarzynki,Katarzynki,1.0,Gdańsk,54.35424,18.65375
+663,,Swarzewska I,,,54.53785,18.46341
+664,Heweliusza,Heweliusza,1.0,Gdańsk,54.35632,18.65228
+665,Miedza,Miedza (N/Ż),1.0,Gdańsk,54.33517,18.66182
+666,"Hala ""Olivia""","Hala ""Olivia""",1.0,Gdańsk,54.40143,18.57414
+667,Turystyczna,Turystyczna (N/Ż),1.0,Gdańsk,54.3426,18.85214
+668,Sąsiedzka,Sąsiedzka (N/Ż),1.0,Gdańsk,54.36942,18.50325
+669,,Swarzewska II,,,54.53603,18.46077
+670,Wołkowyska,Wołkowyska,1.0,Gdańsk,54.35079,18.56989
+671,Zacna,Zacna,1.0,Gdańsk,54.35063,18.56318
+672,,Bitwy pod Płowcami,,,54.43779,18.57383
+673,Staw Wróbla,Staw Wróbla ,1.0,Gdańsk,54.35022,18.55494
+674,Czermińskiego,Czermińskiego,1.0,Gdańsk,54.32241,18.55242
+675,Szmaragdowa,Szmaragdowa,1.0,Gdańsk,54.31462,18.60027
+676,Knyszyńska,Knyszyńska,1.0,Gdańsk,54.31391,18.60327
+677,Osiedle Jary,Osiedle Jary,1.0,Gdańsk,54.33583,18.60057
+678,Rogalińska,Rogalińska,1.0,Gdańsk,54.33107,18.60045
+679,Smoluchowskiego,Smoluchowskiego,1.0,Gdańsk,54.36711,18.62386
+680,Zagony,Zagony (N/Ż),1.0,Gdańsk,54.33634,18.65865
+681,Lenartowicza,Lenartowicza,1.0,Gdańsk,54.35799,18.68671
+682,Marsa,Marsa,1.0,Gdańsk,54.42012,18.47837
+683,Owczarnia,Owczarnia,1.0,Gdańsk,54.41413,18.48023
+684,Kontenerowa,Kontenerowa (N/Ż),1.0,Gdańsk,54.38028,18.69508
+685,Śluza,Śluza,1.0,Gdańsk,54.34116,18.65822
+686,Bora Komorowskiego,Bora Komorowskiego,1.0,Gdańsk,54.40747,18.58886
+687,Terminal DCT,Terminal DCT,1.0,Gdańsk,54.38298,18.70617
+688,Hokejowa,Hokejowa,1.0,Gdańsk,54.3105,18.58878
+689,Telewizyjna,Telewizyjna (N/Ż),1.0,Gdańsk,54.39813,18.48519
+690,Zakład Utylizacyjny,Zakład Utylizacyjny,1.0,Gdańsk,54.3229,18.54067
+691,Zbieżna,Zbieżna (N/Ż),1.0,Gdańsk,54.36695,18.48793
+692,Opera Bałtycka,Opera Bałtycka (N/Ż),1.0,Gdańsk,54.37281,18.62495
+693,,Sopot PKP - Marynarzy,,,54.43906,18.5643
+694,Centrum Onkologii,Centrum Onkologii (N/Ż),1.0,Gdańsk,54.37013,18.62715
+695,Traugutta,Traugutta,1.0,Gdańsk,54.36816,18.62974
+696,,Uniwersyteckie Centrum Kliniczne,,,54.36664,18.62674
+697,Szpital Zakaźny,Szpital Zakaźny,1.0,Gdańsk,54.3637,18.61618
+698,Centrum Medycyny Inwazyjnej,Centrum Medycyny Inwazyjnej,1.0,Gdańsk,54.36627,18.61955
+699,Zabytkowa,Zabytkowa,1.0,Gdańsk,54.37978,18.59
+700,Cmentarz Srebrzysko,Cmentarz Srebrzysko,1.0,Gdańsk,54.37797,18.58088
+701,,Przytulna (N/Ż),,,54.34771,18.53582
+702,Przytulna,Przytulna,1.0,Gdańsk,54.34838,18.53332
+703,Szczęśliwa,Szczęśliwa,1.0,Gdańsk,54.34907,18.528
+704,Porębskiego,Porębskiego,1.0,Gdańsk,54.31765,18.58237
+705,Kiełpinek,Kiełpinek (N/Ż),1.0,Gdańsk,54.35492,18.52343
+706,Przegalińska - Schronisko,Przegalińska - Schronisko (N/Ż),1.0,Gdańsk,54.3139,18.91137
+707,Dulkowa,Dulkowa (N/Ż),1.0,Gdańsk,54.3157,18.90229
+708,Komary,Komary (N/Ż),1.0,Gdańsk,54.31571,18.894
+709,Sobieszewska Pastwa 2,Sobieszewska Pastwa 2 (N/Ż),1.0,Gdańsk,54.31258,18.87351
+710,,Polna,,,54.43436,18.57781
+711,Marynarska,Marynarska (N/Ż),1.0,Gdańsk,54.3155,18.86922
+712,Sobieszewska Pastwa 1,Sobieszewska Pastwa 1 (N/Ż),1.0,Gdańsk,54.3191,18.86565
+713,Wieniecka,Wieniecka (N/Ż),1.0,Gdańsk,54.32437,18.85465
+714,Sobieszewko,Sobieszewko (N/Ż),1.0,Gdańsk,54.32853,18.84396
+715,Sobieszewko Ośrodek,Sobieszewko Ośrodek (N/Ż),1.0,Gdańsk,54.33512,18.84007
+716,Osiedle Świętokrzyskie,Osiedle Świętokrzyskie (N/Ż),1.0,Gdańsk,54.31376,18.57109
+717,Osiedle Świętokrzyskie,Osiedle Świętokrzyskie,1.0,Gdańsk,54.31411,18.56983
+718,Elfów,Elfów,1.0,Gdańsk,54.31564,18.56977
+719,Baśniowa,Baśniowa,1.0,Gdańsk,54.31928,18.56434
+720,,Sobieskiego - Przychodnia,,,54.43926,18.56749
+721,Rębowo,Rębowo,1.0,Gdańsk,54.32246,18.55881
+722,Leszczynowa,Leszczynowa,1.0,Gdańsk,54.33093,18.55856
+723,Lawendowe Wzgórze,Lawendowe Wzgórze,1.0,Gdańsk,54.33164,18.56393
+724,,Sienkiewicza ,,,54.454,18.54882
+725,Twierdza Wisłoujście,Twierdza Wisłoujście (N/Ż),1.0,Gdańsk,54.39143,18.6797
+726,Wilanowska,Wilanowska,1.0,Gdańsk,54.33662,18.59828
+727,Jeleniogórska,Jeleniogórska,1.0,Gdańsk,54.32865,18.58257
+728,Węzeł Harfa,Węzeł Harfa (N/Ż),1.0,Gdańsk,54.392,18.63875
+729,AmberExpo,AmberExpo,1.0,Gdańsk,54.3874,18.63584
+730,,Schronisko Sopotkowo,,,54.45283,18.54097
+731,Żaglowa - AmberExpo,Żaglowa - AmberExpo (N/Ż),1.0,Gdańsk,54.3841,18.64073
+732,Żaglowa - AmberExpo,Żaglowa - AmberExpo (N/Ż) ,1.0,Gdańsk,54.38404,18.64132
+733,Brama Oliwska,Brama Oliwska,1.0,Gdańsk,54.36207,18.64164
+734,Chodowieckiego,Chodowieckiego,1.0,Gdańsk,54.36404,18.63837
+735,Politechnika,Politechnika,1.0,Gdańsk,54.37398,18.62142
+736,Miszewskiego,Miszewskiego,1.0,Gdańsk,54.37577,18.61514
+737,Klonowa,Klonowa,1.0,Gdańsk,54.37985,18.60306
+738,,Architektów,,,54.43256,18.57361
+739,Zajezdnia,Zajezdnia,1.0,Gdańsk,54.38843,18.58156
+740,Tetmajera,Tetmajera,1.0,Gdańsk,54.40265,18.56561
+741,Derdowskiego,Derdowskiego,1.0,Gdańsk,54.40513,18.56388
+742,,Mazowiecka,,,54.45881,18.55046
+743,Obrońców Westerplatte,Obrońców Westerplatte,1.0,Gdańsk,54.40836,18.56297
+744,Opacka,Opacka,1.0,Gdańsk,54.41388,18.56568
+745,Subisława,Subisława,1.0,Gdańsk,54.41673,18.57344
+746,Osiedle Wejhera,Osiedle Wejhera,1.0,Gdańsk,54.42037,18.58446
+747,Helska,Helska,1.0,Gdańsk,54.42154,18.58808
+748,Plac Solidarności,Plac Solidarności,1.0,Gdańsk,54.36061,18.64771
+749,Stocznia SKM,Stocznia SKM,1.0,Gdańsk,54.36421,18.64324
+750,Stocznia Północna,Stocznia Północna,1.0,Gdańsk,54.37192,18.63385
+751,Twarda,Twarda,1.0,Gdańsk,54.37445,18.63121
+752,Wyspiańskiego,Wyspiańskiego,1.0,Gdańsk,54.3766,18.62351
+753,Reja,Reja,1.0,Gdańsk,54.37901,18.62256
+754,Plac Komorowskiego,Plac Komorowskiego,1.0,Gdańsk,54.38366,18.61453
+755,Bajana,Bajana,1.0,Gdańsk,54.39,18.60821
+756,Żwirki i Wigury,Żwirki i Wigury,1.0,Gdańsk,54.3921,18.60579
+757,Jana Pawła II,Jana Pawła II,1.0,Gdańsk,54.39464,18.60158
+758,Okopowa,Okopowa,1.0,Gdańsk,54.3475,18.64661
+759,Chmielna,Chmielna,1.0,Gdańsk,54.34533,18.65749
+760,Gościnna,Orunia Gościnna,1.0,Gdańsk,54.32294,18.63215
+761,Zimna,Zimna,1.0,Gdańsk,54.36135,18.70749
+762,Nowe Ogrody,Nowe Ogrody,1.0,Gdańsk,54.35204,18.64215
+763,Osiedle Barniewice,Osiedle Barniewice,1.0,Gdańsk,54.41227,18.45146
+764,Dworzec PKS,Dworzec PKS,1.0,Gdańsk,54.35677,18.64344
+765,Chmielna,Chmielna (N/Ż),1.0,Gdańsk,54.34531,18.65676
+766,Powstańców Warszawskich,Powstańców Warszawskich,1.0,Gdańsk,54.35115,18.63639
+768,Paska,Paska,1.0,Gdańsk,54.35008,18.63006
+770,Pastelowa,Pastelowa,1.0,Gdańsk,54.30842,18.60028
+771,Ciasna,Ciasna,1.0,Gdańsk,54.34918,18.62457
+772,Meteorytowa,Meteorytowa (N/Ż),1.0,Gdańsk,54.41136,18.48476
+773,Dwór Ferberów,Dwór Ferberów (N/Ż),1.0,Gdańsk,54.30573,18.63029
+774,,Gołębia,,,54.54406,18.49909
+775,Skrajna,Skrajna,1.0,Gdańsk,54.34907,18.61256
+776,Węzeł Kliniczna,Węzeł Kliniczna,1.0,Gdańsk,54.3766,18.63074
+777,Leśna Góra,Leśna Góra,1.0,Gdańsk,54.37373,18.55864
+778,Swojska,Swojska,1.0,Gdańsk,54.37957,18.63448
+779,Leśna Góra - Przychodnia,Leśna Góra - Przychodnia,1.0,Gdańsk,54.37338,18.56386
+780,,Terminal Promowy,,,54.54798,18.5014
+781,Żaglowa - AmberExpo,Żaglowa - Amber Expo,1.0,Gdańsk,54.38241,18.63856
+782,Mjr Hubala,Majora Hubala,1.0,Gdańsk,54.38738,18.57739
+783,Mostostal,Mostostal,1.0,Gdańsk,54.38577,18.64501
+784,Meczet,Meczet,1.0,Gdańsk,54.39062,18.57251
+785,,Wybickiego  ,,,54.43725,18.55753
+786,Szpital Marynarki Wojennej,Szpital Marynarki Wojennej,1.0,Gdańsk,54.39383,18.56752
+787,Śnieżna,Śnieżna,1.0,Gdańsk,54.39195,18.65729
+788,Jasia i Małgosi,Jasia i Małgosi,1.0,Gdańsk,54.39788,18.56401
+789,,Obłuże Centrum,,,54.55072,18.5076
+791,,Kochanowskiego,,,54.4347,18.55992
+792,Kolonia Uroda,Kolonia Uroda,1.0,Gdańsk,54.3923,18.6223
+793,Górecka,Górecka (N/Ż),1.0,Gdańsk,54.35534,18.74535
+794,Gdańska,Gdańska,1.0,Gdańsk,54.40249,18.63108
+795,Przylesie,Sopot Przylesie,2.0,Sopot,54.44781,18.54059
+796,Sternicza,Sternicza,1.0,Gdańsk,54.40464,18.63451
+797,Okrężna,Sopot Okrężna (N/Ż),2.0,Sopot,54.4466,18.55259
+798,Uniwersytet Gdański,Sopot Uniwersytet Gdański,2.0,Sopot,54.44434,18.55613
+799,Wczasy,Wczasy,1.0,Gdańsk,54.40913,18.62827
+800,,Cechowa,,,54.54915,18.51433
+801,Sikorskiego,Sopot Sikorskiego,2.0,Sopot,54.44159,18.55822
+802,Mazurska,Mazurska,1.0,Gdańsk,54.40851,18.63222
+803,3 Maja,Sopot 3 Maja,2.0,Sopot,54.43381,18.56153
+804,Smolna,Sopot Smolna (N/Ż),2.0,Sopot,54.42833,18.5623
+805,Krasickiego,Krasickiego,1.0,Gdańsk,54.40618,18.64421
+806,Kasztanowa,Sopot Kasztanowa,2.0,Sopot,54.42479,18.56368
+807,Latarnia Morska,Latarnia Morska,1.0,Gdańsk,54.40467,18.65579
+808,Kasztanowa,Kasztanowa,1.0,Gdańsk,54.40396,18.66133
+809,,Nasypowa,,,54.54568,18.52221
+810,Na Zaspę,Na Zaspę,1.0,Gdańsk,54.40177,18.66475
+811,Rybołowców,Rybołowców,1.0,Gdańsk,54.40271,18.6655
+812,"Hotel ""Marina""","Sopot Hotel ""Marina""",2.0,Sopot,54.42958,18.58788
+813,Przychodnia,Przychodnia,1.0,Gdańsk,54.40224,18.66967
+814,Hestii,Sopot Hestii,2.0,Sopot,54.43195,18.58347
+815,Polna,Sopot Polna,2.0,Sopot,54.43412,18.57981
+816,Bitwy pod Płowcami,Sopot Bitwy Pod Płowcami,2.0,Sopot,54.43832,18.57258
+817,Władysława IV,Sopot Władysława IV,2.0,Sopot,54.43599,18.56746
+818,"Sanatorium ""Leśnik""","Sopot Sanatorium ""Leśnik""",2.0,Sopot,54.44926,18.52722
+819,,Stocznia Wojenna,,,54.5425,18.53575
+820,Bitwy pod Płowcami,Sopot Bitwy pod Płowcami,2.0,Sopot,54.43773,18.57394
+821,Pohulanka,Pohulanka ,1.0,Gdańsk,54.34869,18.63653
+822,,Korty Tenisowe,,,54.45027,18.56479
+823,Kamienny Potok SKM,Sopot Kamienny Potok SKM,2.0,Sopot,54.45847,18.55454
+824,Odrzańska,Odrzańska,1.0,Gdańsk,54.34541,18.62578
+825,Wejherowska,Sopot Wejherowska,2.0,Sopot,54.45307,18.55517
+826,Malczewskiego,Sopot Malczewskiego,2.0,Sopot,54.44946,18.55535
+827,,Akademia Marynarki Wojennej,,,54.54271,18.54358
+828,Wybickiego,Sopot Wybickiego,2.0,Sopot,54.43735,18.55738
+829,Kochanowskiego,Sopot Kochanowskiego,2.0,Sopot,54.4342,18.55896
+830,Młyńska,Sopot Młyńska (N/Ż),2.0,Sopot,54.45471,18.55985
+831,Plac Kusocińskiego,Sopot Plac Kusocińskiego (N/Ż),2.0,Sopot,54.4528,18.56311
+832,Korty Tenisowe,Sopot Korty Tenisowe (N/Ż),2.0,Sopot,54.4502,18.56487
+833,Grand Hotel,Sopot Grand Hotel,2.0,Sopot,54.44644,18.56782
+834,,Dolny Sopot - Haffnera,,,54.44959,18.56261
+835,Chopina,Sopot Chopina,2.0,Sopot,54.44217,18.57124
+836,Cebertowicza,Cebertowicza ,1.0,Gdańsk,54.33844,18.60505
+837,Grunwaldzka,Sopot Grunwaldzka,2.0,Sopot,54.4392,18.57379
+838,,Oksywie Dolne,,,54.54284,18.54705
+839,23 Marca,Sopot 23 Marca,2.0,Sopot,54.44816,18.54375
+840,Focha,Focha (N/Ż),1.0,Gdańsk,54.35868,18.62449
+841,,Arciszewskich,,,54.54541,18.5507
+842,Sopot PKP - Marynarzy,Sopot PKP Marynarzy,2.0,Sopot,54.43929,18.56424
+843,Dolne Miasto,Dolne Miasto,1.0,Gdańsk,54.34317,18.66148
+844,,Mały Kack Sandomierska,,,54.4867,18.5283
+846,Jasieńska,Jasieńska,1.0,Gdańsk,54.34946,18.55247
+847,Jasień PKM,Jasień PKM,1.0,Gdańsk,54.35322,18.55003
+848,,Muchowskiego,,,54.54819,18.55164
+849,Belgradzka,Belgradzka,1.0,Gdańsk,54.35576,18.58833
+850,,Halicka,,,54.49119,18.53357
+851,,Oksywie Górne,,,54.54979,18.54804
+852,Biblioteka Główna UG,Biblioteka Główna UG,1.0,Gdańsk,54.39731,18.57719
+853,Kiełpinek PKM,Kiełpinek PKM,1.0,Gdańsk,54.35533,18.52804
+854,Matarnia PKM,Matarnia PKM,1.0,Gdańsk,54.37324,18.50588
+855,,Pancerna,,,54.55343,18.54731
+856,,Redłowo SKM - Park Technologiczny,,,54.49206,18.54068
+857,,Oksywie Dickmana,,,54.55757,18.54677
+867,Cmentarz Garnizonowy,Cmentarz Garnizonowy (N/Ż),1.0,Gdańsk,54.35927,18.64008
+868,Andruszkiewicza,Andruszkiewicza (N/Ż),1.0,Gdańsk,54.36214,18.69022
+869,Andruszkiewicza,Andruszkiewicza,1.0,Gdańsk,54.36655,18.69293
+870,,Czwartaków,,,54.54979,18.54191
+872,,Centrum Nauki Experyment,,,54.49756,18.53824
+874,Ku Ujściu,Ku Ujściu,1.0,Gdańsk,54.37908,18.67721
+875,,Oksywie Godebskiego,,,54.55083,18.53942
+877,,Harcerska,,,54.5033,18.53649
+880,,Alzacka,,,54.54957,18.53907
+883,,Kwiatkowskiego,,,54.55423,18.50773
+884,,Turkusowa,,,54.55744,18.51612
+886,,Dąbka - Zespół Szkół,,,54.55587,18.52076
+887,,Benisławskiego,,,54.55429,18.52438
+888,,Wzgórze Św. Maksymiliana SKM,,,54.50814,18.53657
+890,,Stolarska,,,54.551,18.51906
+891,,Płyta Redłowska,,,54.49183,18.55236
+893,,Białowieska,,,54.55196,18.51503
+894,,Piłsudskiego ,,,54.50777,18.54479
+895,,Ejsmonda,,,54.50488,18.55269
+897,,Dąbka - Zielona,,,54.5536,18.52878
+898,,Korczaka,,,54.49635,18.54464
+899,,Bosmańska - Zielona,,,54.54939,18.53066
+901,,Gdynia Arena,,,54.49872,18.53242
+902,,Stare Obłuże,,,54.56064,18.50998
+904,,Maciejewicza,,,54.56299,18.50851
+905,,Staniewicza,,,54.56322,18.49852
+907,,Urząd Miasta - Świętojańska,,,54.50863,18.53805
+909,,Steyera,,,54.56343,18.48585
+911,,Wzgórze Św. Maksymiliana - Kapliczka,,,54.50553,18.53587
+912,,Pogórze - Pogórze Górne,,,54.5634,18.48129
+913,,Czernickiego,,,54.56278,18.47555
+915,,Pogórze Dolne,,,54.55716,18.47886
+916,,Żelazna,,,54.55567,18.48396
+917,,Kopernika - Partyzantów,,,54.50574,18.53911
+919,,Żeliwna,,,54.55472,18.49218
+920,,Focha,,,54.50365,18.54036
+921,,Podgórska,,,54.55332,18.49979
+922,,Sosnowiecka,,,54.48495,18.53509
+924,,Kuśnierska,,,54.55234,18.50345
+925,,Kurpiowska,,,54.48528,18.53183
+928,,Baza na Pogórzu Dolnym,,,54.55917,18.47624
+930,,Zielona - Działki I,,,54.56079,18.53339
+931,,Pogórze Górne,,,54.56316,18.48141
+934,Jagiełły,Jagiełły (N/Ż),1.0,Gdańsk,54.30465,18.61203
+935,,Obłuże Maciejewicza,,,54.56276,18.50708
+936,Jana z Kolna,Jana z Kolna (dla wysiadających),1.0,Gdańsk,54.36166,18.64554
+937,Węzeł Groddecka,Węzeł Groddecka,1.0,Gdańsk,54.34847,18.64223
+938,,Wąwóz Ostrowicki,,,54.56533,18.53491
+939,Żabianka SKM,Żabianka SKM (techniczny),1.0,Gdańsk,54.42279,18.56966
+940,,Skwer Kościuszki - InfoBox,,,54.51798,18.54202
+941,Jelitkowo,Jelitkowo (techniczny),1.0,Gdańsk,54.42369,18.59422
+942,Leźnieńska,Leźnieńska (N/Ż),1.0,Gdańsk,54.35353,18.46949
+943,,Kadmowa,,,54.55911,18.47239
+944,,Zielona - Kościół,,,54.57627,18.53789
+945,,Pogórze Dolne Złota,,,54.56087,18.46675
+946,Hospicjum,Sopot Hospicjum (N/Ż),2.0,Sopot,54.42562,18.56292
+948,,Galeria Szperk,,,54.56372,18.50478
+949,,Plac Kaszubski - Świętojańska,,,54.5226,18.5433
+950,,Babie Doły,,,54.57779,18.53882
+957,,3 Maja,,,54.51981,18.53472
+959,Nad Stawem,Nad Stawem,1.0,Gdańsk,54.38344,18.6065
+960,Kokoszki,Kokoszki (N/Ż),1.0,Gdańsk,54.35307,18.49639
+961,,Gdynia Dworzec Gł. PKP - Morska,,,54.51998,18.52958
+963,,Zielona - Działki II,,,54.55621,18.53123
+964,,Pogórze - Słowackiego,,,54.56514,18.48143
+965,,Pogórze - Majakowskiego,,,54.56642,18.47985
+966,Topazowa,Topazowa (N/Ż),1.0,Gdańsk,54.30982,18.60061
+967,,Pogórze - Szkolna,,,54.56979,18.47566
+968,,Suchy Dwór - Szkolna,,,54.57235,18.47273
+969,Kolorowa,Kolorowa,1.0,Gdańsk,54.31174,18.60244
+971,,Pogórze - Dobke,,,54.57199,18.48868
+973,,Pogórze - Herberta,,,54.57562,18.49065
+974,,Kosakowo - Urząd Gminy,,,54.5879,18.49333
+976,,Pierwoszyno - Staw,,,54.59369,18.50066
+978,,Pierwoszyno - Kościół,,,54.59832,18.49937
+979,Tamka,Tamka,1.0,Gdańsk,54.3592,18.70602
+980,,Centrum Handlowe Batory,,,54.51961,18.53985
+981,,Mosty - Ogrodowa,,,54.60876,18.4976
+982,,Mosty - Szkoła,,,54.61026,18.50248
+983,Pawia,Pawia,1.0,Gdańsk,54.3597,18.71631
+984,,Mechelinki - Przystań,,,54.60885,18.51167
+985,Kłosowa,Kłosowa,1.0,Gdańsk,54.36166,18.71948
+986,,Rewa - Wrocławska,,,54.6202,18.49637
+987,,Rewa - Bosmańska,,,54.63041,18.49695
+988,,Rewa - Słoneczna,,,54.63229,18.50399
+989,Stogi Skiby,Skiby,1.0,Gdańsk,54.3629,18.70945
+990,,Rewa - Bursztynowa,,,54.632,18.51174
+992,,Kosakowo - Krokusowa ,,,54.58928,18.48263
+993,,Kosakowo - Cmentarz - Brama Główna,,,54.59671,18.47968
+994,,Dębogórze - Owocowa,,,54.59123,18.45845
+995,,Dębogórze - Słonecznikowa,,,54.5904,18.45171
+996,,Dębogórze - Jednostka Wojskowa,,,54.58859,18.43732
+997,,Dębogórze - Naftobazy,,,54.58969,18.43367
+998,,Kazimierz - Kazimierska,,,54.60076,18.42031
+999,,Kazimierz - Rumska,,,54.60185,18.41618
+1000,Rzeźnicka,Rzeźnicka,1.0,Gdańsk,54.34389,18.64702
+1001,Ugory,Ugory (N/Ż),1.0,Gdańsk,54.36363,18.70791
+1002,,Kazimierz - Majowa,,,54.59495,18.4297
+1003,,Kosakowo - Staw,,,54.58897,18.49016
+1004,Stężycka,Stężycka,1.0,Gdańsk,54.33392,18.54175
+1005,,Kosakowo - Tulipanowa,,,54.59137,18.4804
+1006,,Kosakowo - Cmentarz Komunalny,,,54.60016,18.48275
+1007,,Mosty - Olchowa,,,54.61381,18.49606
+1008,,Mosty - Wiązowa,,,54.60442,18.49726
+1009,,Dębogórze - Szkoła,,,54.59101,18.45432
+1010,,Dębogórze - Okopowa,,,54.59153,18.46354
+1011,,Kosakowo - Kościół,,,54.58966,18.49431
+1012,,Kosakowo - Rumska,,,54.60193,18.48484
+1013,,Suchy Dwór - Reja,,,54.57497,18.4699
+1014,,Suchy Dwór - Kochanowskiego,,,54.57615,18.46622
+1015,,Suchy Dwór - Necla,,,54.57602,18.46342
+1016,,Suchy Dwór - Borchardta,,,54.57315,18.46399
+1017,,Suchy Dwór - Gombrowicza,,,54.57295,18.46951
+1018,,Pogórze - Pułaskiego,,,54.5683,18.4855
+1019,,Mosty - Brzozowa,,,54.60488,18.48799
+1020,,Mosty - Wierzbowa,,,54.60693,18.49311
+1021,Zajezdnia WRZESZCZ,Zajezdnia Wrzeszcz (techniczny),1.0,Gdańsk,54.38994,18.57899
+1022,,Kazimierz - Listopadowa,,,54.59743,18.42719
+1023,,Kosakowo - Złote Piaski,,,54.60533,18.4771
+1024,Zimna,Stogi Zimna,1.0,Gdańsk,54.36109,18.70779
+1026,Kaczeńce,Kaczeńce,1.0,Gdańsk,54.36318,18.69901
+1027,,Kujawska ,,,54.56845,18.41318
+1028,,25-lecia Solidarności,,,54.56416,18.4093
+1029,,Dąbrowskiego - Kościół ,,,54.56687,18.40127
+1030,,Dąbrowskiego - Most,,,54.56931,18.39312
+1031,,Rumia Dworzec PKP,,,54.56933,18.38719
+1032,,Starowiejska - Poczta,,,54.57115,18.39239
+1033,,Bosmańska - Nasypowa,,,54.54853,18.52011
+1034,,Wybickiego ,,,54.57078,18.39819
+1035,,Derdowskiego - Przychodnia,,,54.57342,18.40053
+1036,,Derdowskiego - Dębogórska,,,54.57664,18.40345
+1037,,Osiedle Królewskie,,,54.57403,18.41439
+1038,,Dębogórze-Wybudowanie - Długa,,,54.57291,18.4303
+1039,,Dębogórze-Wybudowanie - Leśna,,,54.57307,18.43552
+1040,Królewskie Wzgórze,Królewskie Wzgórze (N/Ż),1.0,Gdańsk,54.35048,18.57357
+1041,,Konopnickiej,,,54.58024,18.39817
+1042,,Słowackiego,,,54.58294,18.39882
+1043,,Ruchu Oporu,,,54.4923,18.54217
+1044,,Rozłogi,,,54.36324,18.71488
+1045,,Rumia Partyzantów,,,54.5855,18.40041
+1046,,Przyrzeczna,,,54.58954,18.40404
+1047,,Żołnierzy I Dywizji WP,,,54.59365,18.40817
+1048,,Kanał Leniwy,,,54.59768,18.41219
+1049,,Powstań Chłopskich,,,54.48976,18.54891
+1050,,Ceynowy ,,,54.57846,18.38667
+1051,,Okrzei,,,54.58223,18.38915
+1052,,Prusa ,,,54.58492,18.39181
+1053,,1 Maja,,,54.58567,18.39427
+1054,,Redłowo Szpital,,,54.48968,18.55499
+1055,,Pomorska  ,,,54.56486,18.42115
+1056,,Stoczniowców,,,54.56314,18.41415
+1057,,Janowo SKM,,,54.56001,18.40638
+1058,,Wierzbowa,,,54.57303,18.42259
+1059,,Żwirki i Wigury ,,,54.5759,18.38796
+1060,,Rondo Jana Pawła II,,,54.57815,18.40009
+1061,,Żeromskiego ,,,54.57331,18.39363
+1062,,Dębogórze-Wybudowanie - Mostowa,,,54.58429,18.42454
+1063,,Cylkowskiego,,,54.49441,18.55244
+1064,,Elektrociepłownia - Kontenerowa,,,54.55106,18.48669
+1065,,Zapolskiej,,,54.5843,18.38026
+1066,,Kościuszki - Kosynierów,,,54.58319,18.38672
+1067,,Napierskiego,,,54.58675,18.39016
+1068,,Partyzantów - Kościuszki,,,54.5882,18.39349
+1069,,Dokerów,,,54.55934,18.41269
+1070,,Rumia Dworzec PKP - Towarowa,,,54.56875,18.3863
+1071,,Strzelecka,,,54.57235,18.37957
+1072,,Cisowa Granica Miasta,,,54.55356,18.4165
+1073,,Janowo SKM - Sobieskiego,,,54.55877,18.40499
+1074,,Sobieskiego - FUO,,,54.56092,18.40063
+1075,,Górnicza,,,54.56231,18.39687
+1076,,Hallera,,,54.4999,18.5417
+1077,,Urząd Miasta Rumi,,,54.56513,18.39072
+1078,,Chełmońskiego,,,54.57793,18.37536
+1079,,"CH ""Port Rumia"" - Grunwaldzka",,,54.58414,18.36474
+1080,,Obwodowa,,,54.59032,18.35871
+1081,,Reda Dworzec PKP,,,54.59525,18.35432
+1082,,Wzgórze Św. Maksymiliana Syrokomli,,,54.5033,18.54222
+1083,,"Centrum Handlowe ""Port Rumia""",,,54.58431,18.37445
+1084,,Sabata - Szkoła,,,54.56285,18.38661
+1085,,Batorego - Szkoła,,,54.5607,18.37634
+1086,,Podmokła,,,54.55881,18.37652
+1087,,Zdrojowa,,,54.55522,18.37295
+1088,,Rumia Szmelta,,,54.55154,18.37117
+1089,,Porazińskiej,,,54.55902,18.3797
+1090,,Dom Marynarza,,,54.5078,18.54888
+1091,,Cmentarz Komunalny,,,54.55896,18.3935
+1092,,Łężyce,,,54.52956,18.37134
+1093,,Łężyce - Limbowa,,,54.51419,18.36611
+1094,,Łężyce - Topolowa,,,54.52236,18.3678
+1095,,Gdańska - Kościół,,,54.60299,18.34954
+1096,,Pieleszewo SKM,,,54.60489,18.31547
+1097,,Śmiechowo SKM - Ceynowy,,,54.60271,18.27648
+1098,,Nanice SKM - Kochanowskiego,,,54.60452,18.24596
+1099,,Pruszkowskiego,,,54.60557,18.24279
+1100,,Wejherowo Szpital,,,54.61488,18.24524
+1101,,Kusocińskiego ,,,54.60686,18.24321
+1102,,Nanice SKM - Kociewska,,,54.60369,18.25294
+1103,,Młyńska,,,54.56241,18.38444
+1104,,Gdańska - Cmentarz,,,54.60052,18.35091
+1105,,"Gdańska - ""Zryw""",,,54.60284,18.28358
+1106,,Gdańska - Szkolna,,,54.59909,18.3521
+1107,,Łężyce - Głodówko,,,54.50918,18.36691
+1108,,Łężyce - Jeżynowa,,,54.50631,18.37609
+1109,,Łąkowa,,,54.55412,18.37149
+1110,,Śmiechowo Ogrodowa,,,54.60311,18.29815
+1111,,Obrońców Helu,,,54.60811,18.24403
+1112,,Grunwaldzka - Ceynowy,,,54.57564,18.3788
+1113,,Koleczkowo - Łąkowa,,,54.48867,18.34961
+1114,,Koleczkowo - Młyńska,,,54.49275,18.35654
+1115,,Chwaszczyno - Lisia,,,54.43512,18.40282
+1116,,Park Rady Europy,,,54.51879,18.54701
+1117,,Tuchom - Ogrodowa,,,54.42798,18.38818
+1118,,Stadion Miejski,,,54.49208,18.53085
+1119,,Dworzec Morski - Muzeum Emigracji,,,54.53261,18.54675
+1120,,Tuchom - Warzenko,,,54.41649,18.37565
+1121,,Chylonia Krzywoustego,,,54.54594,18.46845
+1122,,Miszewko,,,54.40245,18.3614
+1123,,Miszewo,,,54.38846,18.35993
+1124,,Kielno - Cmentarz,,,54.45519,18.34932
+1125,,Małkowo,,,54.37001,18.3633
+1126,,Żukowo - Fenikowskiego,,,54.34996,18.36658
+1127,,Żukowo - Dworcowa,,,54.34689,18.36515
+1128,,Żukowo - Urząd Gminy,,,54.34153,18.35512
+1129,,Kosakowo - Gimnazjum,,,54.58153,18.49283
+1130,,Żukowo - Os. Norbertanek,,,54.35157,18.3719
+1131,,"Żukowo - Baza PA ""Gryf""",,,54.35483,18.37741
+1132,,Miszewo - Pępowo,,,54.37979,18.36167
+1133,,Tuchom - Tęczowa,,,54.42148,18.38139
+1134,,Miszewko - Nowy Tuchom,,,54.41002,18.37016
+1135,,Żukowo - Słoneczna,,,54.35958,18.36466
+1136,,Moniuszki,,,54.5054,18.54932
+1137,,Norwida,,,54.50498,18.54688
+1138,,Chwaszczyno - Szmaragdowa,,,54.4426,18.43195
+1139,,Chwaszczyno - Oliwska,,,54.44211,18.44561
+1140,,Korzeniowskiego,,,54.51062,18.55042
+1141,,Rynarzewo,,,54.42137,18.53835
+1142,,Oliwa - Pętla Tramwajowa,,,54.4101,18.5656
+1143,,Mickiewicza ,,,54.51251,18.54706
+1144,,Karwieńska,,,54.41069,18.54886
+1145,,Necla ,,,54.51041,18.54629
+1146,,Karczemki - Tuchomska,,,54.44336,18.39874
+1147,,Dobrzewino - Kasztelańska,,,54.44884,18.38791
+1148,,Dobrzewino - Dworska,,,54.45724,18.38841
+1149,,Bojano,,,54.47138,18.38374
+1150,,Bojano - Kościół,,,54.47472,18.37814
+1151,,Bojano - Rolnicza,,,54.47726,18.36727
+1152,,Koleczkowo - Gryfa Pomorskiego,,,54.48367,18.34979
+1153,,Koleczkowo - Poczta,,,54.4884,18.34018
+1154,,Koleczkowo - Kamieńska,,,54.4871,18.34258
+1155,,Chwaszczyno - Boczna,,,54.44319,18.40186
+1156,,Dobrzewino - Grabowa,,,54.4517,18.37178
+1157,,Dobrzewino - Bojańska,,,54.45477,18.36384
+1158,,Kielno - Tredera,,,54.45316,18.33979
+1159,,Kielno - Kościół,,,54.4537,18.34311
+1160,,Kielno - Partyzantów Koleczk.,,,54.45969,18.35191
+1161,,Bojano - Graniczna,,,54.46388,18.3611
+1162,,Szczeblewskiego,,,54.49873,18.54912
+1163,,Bojano - Dębowa Karczma,,,54.4653,18.37071
+1164,,Chwaszczyno - Poczta,,,54.4431,18.40916
+1165,,Dobrzewino - Owsiana,,,54.46042,18.38522
+1166,,Kopernika - Kościół,,,54.49616,18.55065
+1167,,Kielno - Różana,,,54.45832,18.32389
+1168,,Kielno - Bożańska,,,54.46863,18.30806
+1169,,Kieleńska Huta,,,54.46837,18.28102
+1170,,Kamień - Asnyka,,,54.47135,18.2767
+1171,,Kamień,,,54.47761,18.26926
+1172,,Szemud - Moczydła,,,54.4809,18.25401
+1173,,Szemud - Lesiniec,,,54.4838,18.24085
+1174,,Szemud - Cmentarz,,,54.48566,18.23215
+1175,,Szemud,,,54.48674,18.22092
+1176,,Szemud - Remiza,,,54.48692,18.21687
+1177,,Kielno - Sikorskiego,,,54.45407,18.33052
+1178,,Bojano - Milenium,,,54.48015,18.35771
+1179,,Fredry,,,54.5087,18.54923
+1180,,Wybickiego,,,54.51686,18.54142
+1181,,Łużycka ,,,54.49487,18.53471
+1182,,Wiosny Ludów,,,54.49112,18.55092
+1183,,Instytut Med. Morskiej i Tropikalnej,,,54.48741,18.54716
+1184,,Łowicka - Szkoła,,,54.48437,18.52731
+1185,,Wieluńska - Lipnowska,,,54.48515,18.52197
+1186,,Wieluńska - Radomska,,,54.48476,18.51782
+1187,,Mały Kack Łęczycka,,,54.48486,18.51513
+1188,,Olkuska - Radomska,,,54.48668,18.51715
+1189,,Dębogórze - Partyzantów,,,54.58088,18.44152
+1190,,Olkuska - Łowicka,,,54.48797,18.52342
+1191,,Sportowa,,,54.43154,18.56976
+1192,,Spokojna - Cmentarz,,,54.47108,18.52191
+1193,,Sea Towers,,,54.5194,18.54804
+1194,,Filipkowskiego,,,54.48705,18.43001
+1195,,Szemud - Błaszkowskiego,,,54.48876,18.21451
+1196,,Władysława Jagiełły,,,54.472,18.50875
+1197,,Grenadierów,,,54.47627,18.50409
+1198,,Mały Kack Strzelców,,,54.47777,18.50295
+1199,,Dębogórze-Wybudowanie - Boisko,,,54.57524,18.42895
+1200,,Pomorska - Gdańska,,,54.56918,18.41492
+1201,,Wielki Kack Fikakowo,,,54.46569,18.48351
+1202,,Świętopełka,,,54.58285,18.40389
+1203,,Stara Rumia Cmentarz,,,54.57992,18.407
+1204,,Jeziorna,,,54.58823,18.37232
+1205,,Śląska,,,54.51401,18.53278
+1206,,Kazimierz - Pętla,,,54.60482,18.42964
+1207,,Armii Krajowej,,,54.51809,18.53897
+1208,,I Urząd Skarbowy,,,54.52276,18.53876
+1209,,Kwiatkowskiej,,,54.49296,18.43426
+1210,,Staniszewskiego,,,54.49347,18.43646
+1211,,Plac Kaszubski,,,54.52233,18.54046
+1212,,Bryla,,,54.49552,18.43723
+1213,,Kielno - Słoneczna,,,54.4647,18.31471
+1214,,Stadion PKM,,,54.49668,18.53304
+1215,,Bulwar Nadmorski,,,54.50747,18.55311
+1217,,Portowa,,,54.52434,18.54309
+1220,,Kielno - Rondo,,,54.45272,18.33459
+1221,,Pieńkawy,,,54.49283,18.42682
+1222,,Urząd Morski,,,54.52814,18.54292
+1223,,Starowiejska,,,54.52091,18.5354
+1224,,Łokietka,,,54.43052,18.57355
+1225,,Ergo Arena,,,54.42669,18.57592
+1226,,Plac Kaszubski - Jana z Kolna,,,54.52342,18.54245
+1227,,Lutycka,,,54.49503,18.54075
+1228,,Górnicza - Damroki,,,54.46816,18.48108
+1229,,Górnicza - Kościół,,,54.467,18.48187
+1230,,Gdynia Dworzec Gł. PKP - Hala,,,54.52308,18.5337
+1231,,Demptowska,,,54.52796,18.46002
+1232,,Herberta,,,54.44022,18.54544
+1233,,Reda Aquapark,,,54.59202,18.36717
+1234,,"CH ""Port Rumia"" - Kosynierów",,,54.5852,18.37798
+1235,,Stocznia Gdynia,,,54.53219,18.51689
+1236,,Węzeł Ofiar Grudnia '70,,,54.52682,18.52013
+1237,,Celna,,,54.52654,18.52506
+1238,,Rotterdamska,,,54.52711,18.53133
+1239,,Szkoła Morska,,,54.5294,18.5377
+1242,,Piołunowa,,,54.47439,18.45691
+1243,,Janka Wiśniewskiego,,,54.53263,18.50903
+1244,,Tymiankowa,,,54.4723,18.45267
+1245,,Energetyków,,,54.53967,18.49937
+1246,,Dąbrowa Miętowa,,,54.4714,18.45029
+1247,,Gdynia Dworzec Gł. PKP,,,54.52154,18.53044
+1248,,Kameliowa,,,54.47014,18.46819
+1249,,Gdynia Dworzec Gł. PKP - Dworcowa,,,54.5209,18.53155
+1250,,Paprykowa,,,54.46778,18.46539
+1251,,Szafranowa,,,54.46531,18.46013
+1252,,Giełda Towarowa,,,54.46222,18.45339
+1253,,Rdestowa - Chwaszczyńska,,,54.45998,18.45158
+1254,,Starochwaszczyńska,,,54.45689,18.44948
+1255,,Centrum Nadawcze RTV,,,54.45171,18.43924
+1256,,Urząd Miasta - Władysława IV,,,54.51038,18.53699
+1257,,Chwaszczyno - Gdyńska,,,54.44748,18.42769
+1258,,Chrzanowskiego - Przychodnia,,,54.52996,18.54236
+1259,,Polifarb,,,54.46011,18.45674
+1260,,3 Maja - Hala,,,54.52211,18.53593
+1261,,Kacze Buki,,,54.45581,18.45318
+1267,,Chwaszczyno - Wiejska,,,54.44605,18.42305
+1268,,Rdestowa - Leśny Zakątek,,,54.46409,18.45759
+1269,Karwiny Tesco,Gdynia Karwiny Tesco,5.0,Gdynia,54.47335,18.47687
