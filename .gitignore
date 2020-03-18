@@ -1,0 +1,4 @@
+notebooks/.ipynb_checkpoints/
+data/
+src/secrets.py
+src/__pycache__/
