@@ -1,3 +1,5 @@
+# https://gist.github.com/eskriett/6038468
+
 import urllib.request
 from PIL import Image
 import os
@@ -37,9 +39,10 @@ class GoogleMapDownloader:
         numTiles = 1 << self._zoom
 
         # Find the x_point given the longitude
+        # point_x = (tile_size / 2 + self._lng * tile_size /
+        #            360.0) * numTiles // tile_size
         point_x = (tile_size / 2 + self._lng * tile_size /
-                   360.0) * numTiles // tile_size
-
+                   360.0) * numTiles / tile_size
         # Convert the latitude to radians and take the sine
         sin_y = math.sin(self._lat * (math.pi / 180.0))
 
@@ -67,8 +70,8 @@ class GoogleMapDownloader:
 
         start_x = kwargs.get('start_x', None)
         start_y = kwargs.get('start_y', None)
-        tile_width = kwargs.get('tile_width', 5)
-        tile_height = kwargs.get('tile_height', 5)
+        tile_width = kwargs.get('tile_width', 6)
+        tile_height = kwargs.get('tile_height', 6)
 
         # Check that we have x and y tile coordinates
         if start_x is None or start_y is None:
@@ -100,7 +103,7 @@ class GoogleMapDownloader:
 
 def main():
     # Create a new instance of GoogleMap Downloader
-    gmd = GoogleMapDownloader(54.537529, 18.401242, 12)
+    gmd = GoogleMapDownloader(54.543180, 18.455701, 12)
 
     print("The tile coorindates are {}".format(gmd.getXY()))
 
