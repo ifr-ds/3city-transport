@@ -20,7 +20,8 @@ Create a POC tool with possible social impact and industrialize perspective.
 
 ```
 export TRICITY=~/3city-transport/
-export TRICITY_DATA=~/3city-transport/src/state/
+export TRICITY_DATA=~/3city-transport/data/
+export TRICITY_STATE=~/3city-transport/src/state/
 ```
 
 # Components
