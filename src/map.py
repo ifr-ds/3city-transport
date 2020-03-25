@@ -30,6 +30,10 @@ def plot_choropleth(origins: list, city_geo: str, values: pd.DataFrame):
 
 
 def make_plot():
+    """
+    city_geo: path to geoJson file with city mesh coordinates
+    time_data: pandas dataframe with travel time information
+    """
     city_geo = os.path.join(TRICITY_STATE, "geoJson_3city_boundary.json")
 
     time_data = pd.read_csv(
