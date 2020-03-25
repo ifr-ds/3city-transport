@@ -1,8 +1,9 @@
 import os
 import logging
 
-TRICITY = os.environ.get('tricity', '~/3city-transport/')
-TRICITY_DATA = os.environ.get('tricity_data', '~/3city-transport/src/state')
+TRICITY = os.environ.get('TRICITY', '~/3city-transport/')
+TRICITY_DATA = os.environ.get('TRICITY_DATA', '~/3city-transport/data/')
+TRICITY_STATE = os.environ.get('TRICITY_STATE', '~/3city-transport/src/state/')
 
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
