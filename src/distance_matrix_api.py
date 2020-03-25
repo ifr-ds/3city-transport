@@ -1,5 +1,5 @@
 import googlemaps
-from src.secrets import API_KEY
+from secrets import API_KEY
 
 
 def get_time_of_travel(origins_coord, dest_coord, time):
