@@ -16,6 +16,13 @@ Create a POC tool with possible social impact and industrialize perspective.
 - ...
 
 
+# Run
+
+```
+export 3city=~/3city-transport/
+export 3city_data=~/3city-transport/src/state/
+```
+
 # Components
 
 ```
