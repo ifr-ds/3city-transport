@@ -1,6 +1,7 @@
 import pandas as pd
 import os
-from constants import ORIGINS_COORD, time, STOPS_3CITY
+import datetime
+from constants import ORIGINS_COORD, STOPS_3CITY
 from config import TRICITY, logger
 from distance_matrix_api import get_time_of_travel
 
@@ -22,7 +23,7 @@ def prepare_stops_to_request(df: pd.DataFrame) -> list:
     return [split_df(df, i, i + 100) for i in range(0, len(df), 100)]
 
 
-def google_api_request(dfs_splited: list) -> list:
+def google_api_request(dfs_splited: list, time: datetime.datetime) -> list:
     """
     requests to google api in loop by splited dataframes
     """
@@ -31,15 +32,15 @@ def google_api_request(dfs_splited: list) -> list:
         for desttination in dfs_splited]
 
 
-def add_times_of_travels(dfs_splited: list) -> list:
+def add_times_of_travels(dfs_splited: list, time: datetime.datetime) -> list:
     """
     extract time from google api answers
     add results to splited dataframes
     """
-    results = google_api_request(dfs_splited)
+    results = google_api_request(dfs_splited, time)
     logger.debug("Ready answer for request")
-
-    travel_times = [[i['duration']['value']
+    print(results)
+    travel_times = [[i.get('duration', {}).get('value')
                      for i in result['rows'][0]['elements']]
                     for result in results]
     logger.debug("Times of travel extracted")
@@ -48,7 +49,7 @@ def add_times_of_travels(dfs_splited: list) -> list:
             for df, time_t in zip(dfs_splited, travel_times)]
 
 
-def save_times_data():
+def save_times_data(time: datetime.datetime):
     """
     save data from requests to csv file
     """
@@ -58,7 +59,7 @@ def save_times_data():
     dfs_splited = prepare_stops_to_request(df)
     logger.debug("Dataframe prepared to request")
 
-    dfs_with_times = add_times_of_travels(dfs_splited)
+    dfs_with_times = add_times_of_travels(dfs_splited, time)
     logger.debug("Added times of travels to dataframes")
 
     df_merged = pd.DataFrame()
@@ -72,5 +73,5 @@ def save_times_data():
     logger.debug("Data saved")
 
 
-if __name__ == "__main__":
-    save_times_data()
+# if __name__ == "__main__":
+#     save_times_data()
