@@ -1,10 +1,15 @@
 import os
-from datetime import datetime
-from config import TRICITY_STATE
+import logging
 
-# origins coordinates of "Dworzec Główny"
-ORIGINS_COORD = '54.35483000000001, 18.64512'
+TRICITY = os.environ.get('TRICITY', '~/3city-transport/')
+TRICITY_DATA = os.environ.get('TRICITY_DATA', '~/3city-transport/data/')
+TRICITY_STATE = os.environ.get('TRICITY_STATE', '~/3city-transport/src/state/')
 
-STOPS_3CITY = os.path.join(TRICITY_STATE, 'stops_3city_checked.csv')
+logger = logging.getLogger()
+logger.setLevel(logging.DEBUG)
 
-time = datetime.now()
+handler = logging.StreamHandler()
+handler.setLevel(logging.DEBUG)
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+handler.setFormatter(formatter)
+logger.addHandler(handler)
